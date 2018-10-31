@@ -1,0 +1,9 @@
+[29/10/2018, 18:58] Pavel_Markin kupil dom ID: 0 za $1,000.
+[29/10/2018, 20:13] Pavel_Markin kupil dom ID: 2 za $1,000.
+[29/10/2018, 20:17] Pavel_Markin kupil dom ID: 3 za $100.
+[29/10/2018, 20:19] Pavel_Markin kupil dom ID: 4 za $2,324.
+[29/10/2018, 20:19] Pavel_Markin kupil dom ID: 5 za $2,324.
+[29/10/2018, 20:22] Pavel_Markin kupil dom ID: 6 za $2,324.
+[29/10/2018, 21:06] Pavel_Markin kupil dom ID: 0 za $30.
+[29/10/2018, 23:09] Pavel_Markin kupil dom ID: 1 za $20.
+[29/10/2018, 23:15] Pavel_Markin kupil dom ID: 0 za $20.

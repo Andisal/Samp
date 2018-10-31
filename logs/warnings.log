@@ -1,0 +1,5 @@
+[15:40:47] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'new'
+[15:45:49] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'new'
+[15:46:43] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'new'
+[15:49:12] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'new'
+[16:26:40] [plugins/mysql] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'new'

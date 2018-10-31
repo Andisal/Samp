@@ -1,0 +1,1 @@
+[16:26:41] [plugins/mysql] error #1146 while executing query "SELECT * FROM `business`": Table 'new.business' doesn't exist

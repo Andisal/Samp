@@ -1,0 +1,4016 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:53:53] 
+[23:53:53] Server Plugins
+[23:53:53] --------------
+[23:53:53]  Loading plugin: mysql.dll
+[23:53:53]  >> plugin.mysql: R41-4 successfully loaded.
+[23:53:53]   Loaded.
+[23:53:53]  Loading plugin: bcrypt-samp
+[23:53:53]   plugin.bcrypt v2.2.3 was loaded.
+[23:53:53]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:53:53]   Loaded.
+[23:53:53]  Loaded 2 plugins.
+
+[23:53:53] 
+[23:53:53] Filterscripts
+[23:53:53] ---------------
+[23:53:53]   Loaded 0 filterscripts.
+
+[23:53:53] SERVER: MySQL Connection was successful.
+[23:53:53] Script[gamemodes/logreg.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[23:53:53] Number of vehicle models: 0
+[23:53:54] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:55:05] 
+[23:55:05] Server Plugins
+[23:55:05] --------------
+[23:55:05]  Loading plugin: mysql.dll
+[23:55:05]  >> plugin.mysql: R41-4 successfully loaded.
+[23:55:05]   Loaded.
+[23:55:05]  Loading plugin: bcrypt-samp
+[23:55:05]   plugin.bcrypt v2.2.3 was loaded.
+[23:55:05]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:55:05]   Loaded.
+[23:55:05]  Loaded 2 plugins.
+
+[23:55:05] 
+[23:55:05] Filterscripts
+[23:55:05] ---------------
+[23:55:05]   Loaded 0 filterscripts.
+
+[23:55:05] SERVER: MySQL Connection was successful.
+[23:55:05] Number of vehicle models: 0
+[23:55:05] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:24] 
+[23:59:24] Server Plugins
+[23:59:24] --------------
+[23:59:24]  Loading plugin: mysql.dll
+[23:59:24]  >> plugin.mysql: R41-4 successfully loaded.
+[23:59:24]   Loaded.
+[23:59:24]  Loading plugin: bcrypt-samp.dll
+[23:59:24]   plugin.bcrypt v2.2.3 was loaded.
+[23:59:24]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:59:24]   Loaded.
+[23:59:24]  Loading plugin: pawncmd.dll
+[23:59:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:59:24]   Loaded.
+[23:59:24]  Loaded 3 plugins.
+
+[23:59:24] 
+[23:59:24] Filterscripts
+[23:59:24] ---------------
+[23:59:24]   Loaded 0 filterscripts.
+
+[23:59:24] SERVER: MySQL Connection was successful.
+[23:59:24] Number of vehicle models: 0
+[23:59:25] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:04:38] 
+[00:04:38] Server Plugins
+[00:04:38] --------------
+[00:04:38]  Loading plugin: mysql.dll
+[00:04:38]  >> plugin.mysql: R41-4 successfully loaded.
+[00:04:38]   Loaded.
+[00:04:38]  Loading plugin: bcrypt-samp.dll
+[00:04:38]   plugin.bcrypt v2.2.3 was loaded.
+[00:04:38]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[00:04:38]   Loaded.
+[00:04:38]  Loading plugin: pawncmd.dll
+[00:04:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:04:38]   Loaded.
+[00:04:38]  Loaded 3 plugins.
+
+[00:04:38] 
+[00:04:38] Filterscripts
+[00:04:38] ---------------
+[00:04:38]   Loaded 0 filterscripts.
+
+[00:04:38] SERVER: MySQL Connection was successful.
+[00:04:38] Number of vehicle models: 0
+[00:04:38] plugin.bcrypt: Version check failed.
+[00:13:17] [connection] 127.0.0.1:56918 requests connection cookie.
+[00:13:18] [connection] incoming connection: 127.0.0.1:56918 id: 0
+[00:13:18] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[00:14:02] SERVER: MySQL Connection was successful.
+[00:14:02] Number of vehicle models: 0
+[00:14:03] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:25] 
+[00:14:25] Server Plugins
+[00:14:25] --------------
+[00:14:25]  Loading plugin: mysql.dll
+[00:14:25]  >> plugin.mysql: R41-4 successfully loaded.
+[00:14:25]   Loaded.
+[00:14:25]  Loading plugin: bcrypt-samp.dll
+[00:14:25]   plugin.bcrypt v2.2.3 was loaded.
+[00:14:25]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[00:14:25]   Loaded.
+[00:14:25]  Loading plugin: pawncmd.dll
+[00:14:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:14:25]   Loaded.
+[00:14:25]  Loaded 3 plugins.
+
+[00:14:25] 
+[00:14:25] Filterscripts
+[00:14:25] ---------------
+[00:14:25]   Loaded 0 filterscripts.
+
+[00:14:26] SERVER: MySQL Connection was successful.
+[00:14:26] Number of vehicle models: 0
+[00:14:26] plugin.bcrypt: Version check failed.
+[00:14:39] [connection] 127.0.0.1:58844 requests connection cookie.
+[00:14:40] [connection] incoming connection: 127.0.0.1:58844 id: 0
+[00:14:50] [connection] incoming connection: 127.0.0.1:58846 id: 0
+[00:15:00] [connection] incoming connection: 127.0.0.1:58849 id: 0
+[00:15:13] [connection] incoming connection: 127.0.0.1:52842 id: 0
+[00:15:13] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[00:16:00] SERVER: MySQL Connection was successful.
+[00:16:00] Number of vehicle models: 0
+[00:16:01] plugin.bcrypt: Version check failed.
+[00:24:50] SERVER: MySQL Connection was successful.
+[00:24:50] Number of vehicle models: 0
+[00:24:50] plugin.bcrypt: Version check failed.
+[00:28:02] SERVER: MySQL Connection was successful.
+[00:28:02] Number of vehicle models: 0
+[00:28:02] plugin.bcrypt: Version check failed.
+[00:28:50] SERVER: MySQL Connection was successful.
+[00:28:50] Number of vehicle models: 0
+[00:28:50] plugin.bcrypt: Version check failed.
+[00:31:45] SERVER: MySQL Connection was successful.
+[00:31:45] Number of vehicle models: 0
+[00:31:45] plugin.bcrypt: Version check failed.
+[00:33:28] SERVER: MySQL Connection was successful.
+[00:33:28] Number of vehicle models: 0
+[00:33:28] plugin.bcrypt: Version check failed.
+[00:36:41] SERVER: MySQL Connection was successful.
+[00:36:41] Number of vehicle models: 0
+[00:36:41] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:40:00] 
+[00:40:00] Server Plugins
+[00:40:00] --------------
+[00:40:00]  Loading plugin: mysql.dll
+[00:40:00]  >> plugin.mysql: R41-4 successfully loaded.
+[00:40:00]   Loaded.
+[00:40:00]  Loading plugin: bcrypt-samp.dll
+[00:40:00]   plugin.bcrypt v2.2.3 was loaded.
+[00:40:00]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[00:40:00]   Loaded.
+[00:40:00]  Loading plugin: pawncmd.dll
+[00:40:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:40:00]   Loaded.
+[00:40:00]  Loading plugin: streamer.dll
+[00:40:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:40:00]   Loaded.
+[00:40:00]  Loaded 4 plugins.
+
+[00:40:00] 
+[00:40:00] Filterscripts
+[00:40:00] ---------------
+[00:40:00]   Loaded 0 filterscripts.
+
+[00:40:00] SERVER: MySQL Connection was successful.
+[00:40:00] Number of vehicle models: 0
+[00:40:01] plugin.bcrypt: Version check failed.
+[00:52:37] [connection] 127.0.0.1:64363 requests connection cookie.
+[00:52:38] [connection] incoming connection: 127.0.0.1:64363 id: 0
+[00:52:38] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[00:52:58] SERVER: MySQL Connection was successful.
+[00:52:58] Number of vehicle models: 0
+[00:52:59] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:16:55] 
+[01:16:55] Server Plugins
+[01:16:55] --------------
+[01:16:55]  Loading plugin: mysql.dll
+[01:16:55]  >> plugin.mysql: R41-4 successfully loaded.
+[01:16:55]   Loaded.
+[01:16:55]  Loading plugin: bcrypt-samp.dll
+[01:16:55]   plugin.bcrypt v2.2.3 was loaded.
+[01:16:55]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:16:55]   Loaded.
+[01:16:55]  Loading plugin: pawncmd.dll
+[01:16:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:16:55]   Loaded.
+[01:16:55]  Loading plugin: streamer.dll
+[01:16:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:16:55]   Loaded.
+[01:16:55]  Loading plugin: sscanf.dll
+[01:16:55] 
+
+[01:16:55]  ===============================
+
+[01:16:55]       sscanf plugin loaded.     
+
+[01:16:55]          Version:  2.8.2        
+
+[01:16:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:16:55]  ===============================
+
+[01:16:55]   Loaded.
+[01:16:55]  Loaded 5 plugins.
+
+[01:16:55] 
+[01:16:55] Filterscripts
+[01:16:55] ---------------
+[01:16:55]   Loaded 0 filterscripts.
+
+[01:16:55] SERVER: MySQL Connection was successful.
+[01:16:55] Number of vehicle models: 0
+[01:16:55] plugin.bcrypt: Version check failed.
+[01:17:02] [connection] 127.0.0.1:57399 requests connection cookie.
+[01:17:03] [connection] incoming connection: 127.0.0.1:57399 id: 0
+[01:17:04] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:18:32] SERVER: MySQL Connection was successful.
+[01:18:32] Number of vehicle models: 0
+[01:18:32] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:19:44] 
+[01:19:44] Server Plugins
+[01:19:44] --------------
+[01:19:44]  Loading plugin: mysql.dll
+[01:19:44]  >> plugin.mysql: R41-4 successfully loaded.
+[01:19:44]   Loaded.
+[01:19:44]  Loading plugin: bcrypt-samp.dll
+[01:19:44]   plugin.bcrypt v2.2.3 was loaded.
+[01:19:44]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:19:44]   Loaded.
+[01:19:44]  Loading plugin: pawncmd.dll
+[01:19:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:19:44]   Loaded.
+[01:19:44]  Loading plugin: streamer.dll
+[01:19:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:19:44]   Loaded.
+[01:19:44]  Loading plugin: sscanf.dll
+[01:19:44] 
+
+[01:19:44]  ===============================
+
+[01:19:44]       sscanf plugin loaded.     
+
+[01:19:44]          Version:  2.8.2        
+
+[01:19:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:19:44]  ===============================
+
+[01:19:44]   Loaded.
+[01:19:44]  Loaded 5 plugins.
+
+[01:19:44] 
+[01:19:44] Filterscripts
+[01:19:44] ---------------
+[01:19:44]   Loaded 0 filterscripts.
+
+[01:19:44] SERVER: MySQL Connection was successful.
+[01:19:44] Number of vehicle models: 0
+[01:19:45] plugin.bcrypt: Version check failed.
+[01:22:12] [connection] 127.0.0.1:64598 requests connection cookie.
+[01:22:13] [connection] incoming connection: 127.0.0.1:64598 id: 0
+[01:22:13] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:22:31] SERVER: MySQL Connection was successful.
+[01:22:31] Number of vehicle models: 0
+[01:22:31] plugin.bcrypt: Version check failed.
+[01:25:27] SERVER: MySQL Connection was successful.
+[01:25:27] Number of vehicle models: 0
+[01:25:27] plugin.bcrypt: Version check failed.
+[01:30:47] SERVER: MySQL Connection was successful.
+[01:30:47] Number of vehicle models: 0
+[01:30:47] plugin.bcrypt: Version check failed.
+[01:33:31] SERVER: MySQL Connection was successful.
+[01:33:31] Number of vehicle models: 0
+[01:33:31] plugin.bcrypt: Version check failed.
+[01:35:36] SERVER: MySQL Connection was successful.
+[01:35:36] Number of vehicle models: 0
+[01:35:36] plugin.bcrypt: Version check failed.
+[01:41:50] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:33:13] 
+[02:33:13] Server Plugins
+[02:33:13] --------------
+[02:33:13]  Loading plugin: mysql.dll
+[02:33:13]  >> plugin.mysql: R41-4 successfully loaded.
+[02:33:13]   Loaded.
+[02:33:13]  Loading plugin: bcrypt-samp.dll
+[02:33:13]   plugin.bcrypt v2.2.3 was loaded.
+[02:33:13]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[02:33:13]   Loaded.
+[02:33:13]  Loading plugin: pawncmd.dll
+[02:33:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:33:13]   Loaded.
+[02:33:13]  Loading plugin: streamer.dll
+[02:33:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:33:13]   Loaded.
+[02:33:13]  Loading plugin: sscanf.dll
+[02:33:13] 
+
+[02:33:13]  ===============================
+
+[02:33:13]       sscanf plugin loaded.     
+
+[02:33:13]          Version:  2.8.2        
+
+[02:33:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:33:13]  ===============================
+
+[02:33:13]   Loaded.
+[02:33:13]  Loaded 5 plugins.
+
+[02:33:13] 
+[02:33:13] Filterscripts
+[02:33:13] ---------------
+[02:33:13]   Loaded 0 filterscripts.
+
+[02:33:13] SERVER: MySQL Connection was successful.
+[02:33:13] Number of vehicle models: 0
+[02:33:13] plugin.bcrypt: Version check failed.
+[02:33:38] [connection] 127.0.0.1:58800 requests connection cookie.
+[02:33:39] [connection] incoming connection: 127.0.0.1:58800 id: 0
+[02:33:40] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[02:47:10] SERVER: MySQL Connection was successful.
+[02:47:10] Number of vehicle models: 0
+[02:47:11] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:04:27] 
+[03:04:27] Server Plugins
+[03:04:27] --------------
+[03:04:27]  Loading plugin: mysql.dll
+[03:04:27]  >> plugin.mysql: R41-4 successfully loaded.
+[03:04:27]   Loaded.
+[03:04:27]  Loading plugin: bcrypt-samp.dll
+[03:04:27]   plugin.bcrypt v2.2.3 was loaded.
+[03:04:27]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[03:04:27]   Loaded.
+[03:04:27]  Loading plugin: pawncmd.dll
+[03:04:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:04:27]   Loaded.
+[03:04:27]  Loading plugin: streamer.dll
+[03:04:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:04:27]   Loaded.
+[03:04:27]  Loading plugin: sscanf.dll
+[03:04:27] 
+
+[03:04:27]  ===============================
+
+[03:04:27]       sscanf plugin loaded.     
+
+[03:04:27]          Version:  2.8.2        
+
+[03:04:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:04:27]  ===============================
+
+[03:04:27]   Loaded.
+[03:04:27]  Loaded 5 plugins.
+
+[03:04:27] 
+[03:04:27] Filterscripts
+[03:04:27] ---------------
+[03:04:27]   Loaded 0 filterscripts.
+
+[03:04:27] SERVER: MySQL Connection was successful.
+[03:04:27] Number of vehicle models: 0
+[03:04:27] plugin.bcrypt: Version check failed.
+[03:04:31] [connection] 127.0.0.1:56500 requests connection cookie.
+[03:04:32] [connection] incoming connection: 127.0.0.1:56500 id: 0
+[03:04:32] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[03:04:59] SERVER: MySQL Connection was successful.
+[03:04:59] Number of vehicle models: 0
+[03:04:59] plugin.bcrypt: Version check failed.
+[03:05:48] [part] Pavel_Markin has left the server (0:1)
+[03:06:25] [connection] 127.0.0.1:56561 requests connection cookie.
+[03:06:26] [connection] incoming connection: 127.0.0.1:56561 id: 0
+[03:06:26] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[03:08:03] SERVER: MySQL Connection was successful.
+[03:08:03] Number of vehicle models: 0
+[03:08:03] plugin.bcrypt: Version check failed.
+[03:08:26] SERVER: MySQL Connection was successful.
+[03:08:26] Number of vehicle models: 0
+[03:08:26] plugin.bcrypt: Version check failed.
+[03:15:40] SERVER: MySQL Connection was successful.
+[03:15:40] Number of vehicle models: 0
+[03:15:40] plugin.bcrypt: Version check failed.
+[03:24:37] SERVER: MySQL Connection was successful.
+[03:24:37] Number of vehicle models: 0
+[03:24:37] plugin.bcrypt: Version check failed.
+[03:37:56] SERVER: MySQL Connection was successful.
+[03:37:56] Number of vehicle models: 0
+[03:37:56] plugin.bcrypt: Version check failed.
+[03:38:14] ** Warning: Directory "logs/" doesn't exist.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:39:06] 
+[03:39:06] Server Plugins
+[03:39:06] --------------
+[03:39:06]  Loading plugin: mysql.dll
+[03:39:06]  >> plugin.mysql: R41-4 successfully loaded.
+[03:39:06]   Loaded.
+[03:39:06]  Loading plugin: bcrypt-samp.dll
+[03:39:06]   plugin.bcrypt v2.2.3 was loaded.
+[03:39:06]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[03:39:06]   Loaded.
+[03:39:06]  Loading plugin: pawncmd.dll
+[03:39:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:39:06]   Loaded.
+[03:39:06]  Loading plugin: streamer.dll
+[03:39:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:39:06]   Loaded.
+[03:39:06]  Loading plugin: sscanf.dll
+[03:39:06] 
+
+[03:39:06]  ===============================
+
+[03:39:06]       sscanf plugin loaded.     
+
+[03:39:06]          Version:  2.8.2        
+
+[03:39:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:39:06]  ===============================
+
+[03:39:06]   Loaded.
+[03:39:06]  Loaded 5 plugins.
+
+[03:39:06] 
+[03:39:06] Filterscripts
+[03:39:06] ---------------
+[03:39:06]   Loaded 0 filterscripts.
+
+[03:39:06] SERVER: MySQL Connection was successful.
+[03:39:06] Number of vehicle models: 0
+[03:39:06] plugin.bcrypt: Version check failed.
+[03:39:48] [connection] 127.0.0.1:49602 requests connection cookie.
+[03:39:49] [connection] incoming connection: 127.0.0.1:49602 id: 0
+[03:39:49] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[03:39:53] ** Warning: Directory "logs/" doesn't exist.
+[03:41:17] ** Warning: Directory "logs/" doesn't exist.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:42:22] 
+[03:42:22] Server Plugins
+[03:42:22] --------------
+[03:42:22]  Loading plugin: mysql.dll
+[03:42:22]  >> plugin.mysql: R41-4 successfully loaded.
+[03:42:22]   Loaded.
+[03:42:22]  Loading plugin: bcrypt-samp.dll
+[03:42:22]   plugin.bcrypt v2.2.3 was loaded.
+[03:42:22]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[03:42:22]   Loaded.
+[03:42:22]  Loading plugin: pawncmd.dll
+[03:42:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:42:22]   Loaded.
+[03:42:22]  Loading plugin: streamer.dll
+[03:42:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:42:22]   Loaded.
+[03:42:22]  Loading plugin: sscanf.dll
+[03:42:22] 
+
+[03:42:22]  ===============================
+
+[03:42:22]       sscanf plugin loaded.     
+
+[03:42:22]          Version:  2.8.2        
+
+[03:42:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:42:22]  ===============================
+
+[03:42:22]   Loaded.
+[03:42:22]  Loaded 5 plugins.
+
+[03:42:22] 
+[03:42:22] Filterscripts
+[03:42:22] ---------------
+[03:42:22]   Loaded 0 filterscripts.
+
+[03:42:22] SERVER: MySQL Connection was successful.
+[03:42:22] Number of vehicle models: 0
+[03:42:22] plugin.bcrypt: Version check failed.
+[03:42:27] [connection] 127.0.0.1:65379 requests connection cookie.
+[03:42:28] [connection] incoming connection: 127.0.0.1:65379 id: 0
+[03:42:28] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[03:42:33] ** Warning: Directory "gamelogs/" doesn't exist.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:49:26] 
+[03:49:26] Server Plugins
+[03:49:26] --------------
+[03:49:26]  Loading plugin: mysql.dll
+[03:49:26]  >> plugin.mysql: R41-4 successfully loaded.
+[03:49:26]   Loaded.
+[03:49:26]  Loading plugin: bcrypt-samp.dll
+[03:49:26]   plugin.bcrypt v2.2.3 was loaded.
+[03:49:26]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[03:49:26]   Loaded.
+[03:49:26]  Loading plugin: pawncmd.dll
+[03:49:26] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:49:26]   Loaded.
+[03:49:26]  Loading plugin: streamer.dll
+[03:49:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:49:26]   Loaded.
+[03:49:26]  Loading plugin: sscanf.dll
+[03:49:26] 
+
+[03:49:26]  ===============================
+
+[03:49:26]       sscanf plugin loaded.     
+
+[03:49:26]          Version:  2.8.2        
+
+[03:49:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:49:26]  ===============================
+
+[03:49:26]   Loaded.
+[03:49:26]  Loaded 5 plugins.
+
+[03:49:26] 
+[03:49:26] Filterscripts
+[03:49:26] ---------------
+[03:49:26]   Loaded 0 filterscripts.
+
+[03:49:26] SERVER: MySQL Connection was successful.
+[03:49:26] Number of vehicle models: 0
+[03:49:26] plugin.bcrypt: Version check failed.
+[03:49:42] [connection] 127.0.0.1:63829 requests connection cookie.
+[03:49:43] [connection] incoming connection: 127.0.0.1:63829 id: 0
+[03:49:43] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[03:53:27] SERVER: MySQL Connection was successful.
+[03:53:27] Number of vehicle models: 0
+[03:53:28] plugin.bcrypt: Version check failed.
+[03:54:00] SERVER: MySQL Connection was successful.
+[03:54:00] Number of vehicle models: 0
+[03:54:00] plugin.bcrypt: Version check failed.
+[03:55:33] SERVER: MySQL Connection was successful.
+[03:55:33] Number of vehicle models: 0
+[03:55:34] plugin.bcrypt: Version check failed.
+[04:06:08] SERVER: MySQL Connection was successful.
+[04:06:08] Number of vehicle models: 0
+[04:06:08] plugin.bcrypt: Version check failed.
+[04:07:40] SERVER: MySQL Connection was successful.
+[04:07:40] Number of vehicle models: 0
+[04:07:40] plugin.bcrypt: Version check failed.
+[04:09:33] SERVER: MySQL Connection was successful.
+[04:09:33] Number of vehicle models: 0
+[04:09:33] plugin.bcrypt: Version check failed.
+[04:12:29] SERVER: MySQL Connection was successful.
+[04:12:29] Number of vehicle models: 0
+[04:12:32] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:14:05] 
+[11:14:05] Server Plugins
+[11:14:05] --------------
+[11:14:05]  Loading plugin: mysql.dll
+[11:14:06]  >> plugin.mysql: R41-4 successfully loaded.
+[11:14:06]   Loaded.
+[11:14:06]  Loading plugin: bcrypt-samp.dll
+[11:14:06]   plugin.bcrypt v2.2.3 was loaded.
+[11:14:06]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[11:14:06]   Loaded.
+[11:14:06]  Loading plugin: pawncmd.dll
+[11:14:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:14:06]   Loaded.
+[11:14:06]  Loading plugin: streamer.dll
+[11:14:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:14:06]   Loaded.
+[11:14:06]  Loading plugin: sscanf.dll
+[11:14:06] 
+
+[11:14:06]  ===============================
+
+[11:14:06]       sscanf plugin loaded.     
+
+[11:14:06]          Version:  2.8.2        
+
+[11:14:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:14:06]  ===============================
+
+[11:14:06]   Loaded.
+[11:14:06]  Loaded 5 plugins.
+
+[11:14:06] 
+[11:14:06] Filterscripts
+[11:14:06] ---------------
+[11:14:06]   Loaded 0 filterscripts.
+
+[11:14:07] SERVER: MySQL Connection was successful.
+[11:14:07] Number of vehicle models: 0
+[11:14:07] plugin.bcrypt: Version check failed.
+[11:14:19] [connection] 127.0.0.1:50265 requests connection cookie.
+[11:14:20] [connection] incoming connection: 127.0.0.1:50265 id: 0
+[11:14:21] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[11:28:35] SERVER: MySQL Connection was successful.
+[11:28:35] Number of vehicle models: 0
+[11:28:35] plugin.bcrypt: Version check failed.
+[11:29:53] SERVER: MySQL Connection was successful.
+[11:29:53] Number of vehicle models: 0
+[11:29:53] plugin.bcrypt: Version check failed.
+[11:33:57] SERVER: MySQL Connection was successful.
+[11:33:57] Number of vehicle models: 0
+[11:34:00] plugin.bcrypt: Version check failed.
+[11:49:39] SERVER: MySQL Connection was successful.
+[11:49:39] Number of vehicle models: 0
+[11:49:39] plugin.bcrypt: Version check failed.
+[11:51:11] [part] Pavel_Markin has left the server (0:1)
+[11:51:57] [connection] 127.0.0.1:59590 requests connection cookie.
+[11:51:58] [connection] incoming connection: 127.0.0.1:59590 id: 0
+[11:51:58] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[11:53:50] SERVER: MySQL Connection was successful.
+[11:53:50] Number of vehicle models: 0
+[11:53:50] plugin.bcrypt: Version check failed.
+[11:55:40] SERVER: MySQL Connection was successful.
+[11:55:40] Number of vehicle models: 0
+[11:55:40] plugin.bcrypt: Version check failed.
+[11:57:15] SERVER: MySQL Connection was successful.
+[11:57:15] Number of vehicle models: 0
+[11:57:15] plugin.bcrypt: Version check failed.
+[11:59:47] SERVER: MySQL Connection was successful.
+[11:59:47] Number of vehicle models: 0
+[11:59:47] plugin.bcrypt: Version check failed.
+[12:01:31] SERVER: MySQL Connection was successful.
+[12:01:31] Number of vehicle models: 0
+[12:01:31] plugin.bcrypt: Version check failed.
+[12:09:45] [part] Pavel_Markin has left the server (0:1)
+[17:07:11] [connection] 127.0.0.1:51715 requests connection cookie.
+[17:07:12] [connection] incoming connection: 127.0.0.1:51715 id: 0
+[17:07:12] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[17:36:36] SERVER: MySQL Connection was successful.
+[17:36:36] Number of vehicle models: 0
+[17:36:36] plugin.bcrypt: Version check failed.
+[17:38:47] SERVER: MySQL Connection was successful.
+[17:38:47] Number of vehicle models: 0
+[17:38:47] plugin.bcrypt: Version check failed.
+[17:41:09] SERVER: MySQL Connection was successful.
+[17:41:09] Number of vehicle models: 0
+[17:41:09] plugin.bcrypt: Version check failed.
+[17:47:41] SERVER: MySQL Connection was successful.
+[17:47:41] Number of vehicle models: 0
+[17:47:41] plugin.bcrypt: Version check failed.
+[17:50:30] SERVER: MySQL Connection was successful.
+[17:50:30] Number of vehicle models: 0
+[17:50:30] plugin.bcrypt: Version check failed.
+[17:52:29] SERVER: MySQL Connection was successful.
+[17:52:29] Number of vehicle models: 0
+[17:52:29] plugin.bcrypt: Version check failed.
+[18:03:40] SERVER: MySQL Connection was successful.
+[18:03:40] Number of vehicle models: 0
+[18:03:41] plugin.bcrypt: Version check failed.
+[18:05:35] SERVER: MySQL Connection was successful.
+[18:05:35] Number of vehicle models: 0
+[18:05:35] plugin.bcrypt: Version check failed.
+[18:08:09] SERVER: MySQL Connection was successful.
+[18:08:09] Number of vehicle models: 0
+[18:08:09] plugin.bcrypt: Version check failed.
+[18:08:16] 
+[18:08:52] SERVER: MySQL Connection was successful.
+[18:08:52] Number of vehicle models: 0
+[18:08:52] plugin.bcrypt: Version check failed.
+[18:09:03] 3
+[18:09:15] 4
+[18:14:48] SERVER: MySQL Connection was successful.
+[18:14:48] Number of vehicle models: 0
+[18:14:48] plugin.bcrypt: Version check failed.
+[18:14:51] 5
+[18:20:29] SERVER: MySQL Connection was successful.
+[18:20:29] Number of vehicle models: 0
+[18:20:29] plugin.bcrypt: Version check failed.
+[18:23:05] SERVER: MySQL Connection was successful.
+[18:23:05] Number of vehicle models: 0
+[18:23:05] plugin.bcrypt: Version check failed.
+[18:23:57] SERVER: MySQL Connection was successful.
+[18:23:57] Number of vehicle models: 0
+[18:23:57] plugin.bcrypt: Version check failed.
+[18:25:42] SERVER: MySQL Connection was successful.
+[18:25:42] Number of vehicle models: 0
+[18:25:42] plugin.bcrypt: Version check failed.
+[18:26:47] SERVER: MySQL Connection was successful.
+[18:26:47] Number of vehicle models: 0
+[18:26:48] plugin.bcrypt: Version check failed.
+[18:28:31] SERVER: MySQL Connection was successful.
+[18:28:31] Number of vehicle models: 0
+[18:28:31] plugin.bcrypt: Version check failed.
+[18:29:18] SERVER: MySQL Connection was successful.
+[18:29:18] Number of vehicle models: 0
+[18:29:18] plugin.bcrypt: Version check failed.
+[18:40:03] SERVER: MySQL Connection was successful.
+[18:40:03] Number of vehicle models: 0
+[18:40:03] plugin.bcrypt: Version check failed.
+[18:40:57] SERVER: MySQL Connection was successful.
+[18:40:57] Number of vehicle models: 0
+[18:40:57] plugin.bcrypt: Version check failed.
+[18:43:31] SERVER: MySQL Connection was successful.
+[18:43:31] Number of vehicle models: 0
+[18:43:31] plugin.bcrypt: Version check failed.
+[18:46:19] SERVER: MySQL Connection was successful.
+[18:46:19] Number of vehicle models: 0
+[18:46:20] plugin.bcrypt: Version check failed.
+[18:47:07] SERVER: MySQL Connection was successful.
+[18:47:07] Number of vehicle models: 0
+[18:47:07] plugin.bcrypt: Version check failed.
+[18:49:08] SERVER: MySQL Connection was successful.
+[18:49:08] Number of vehicle models: 0
+[18:49:08] plugin.bcrypt: Version check failed.
+[18:49:58] SERVER: MySQL Connection was successful.
+[18:49:58] Number of vehicle models: 0
+[18:49:58] plugin.bcrypt: Version check failed.
+[18:50:30] SERVER: MySQL Connection was successful.
+[18:50:30] Number of vehicle models: 0
+[18:50:30] plugin.bcrypt: Version check failed.
+[18:57:15] SERVER: MySQL Connection was successful.
+[18:57:15] Number of vehicle models: 0
+[18:57:15] plugin.bcrypt: Version check failed.
+[19:15:11] SERVER: MySQL Connection was successful.
+[19:15:11] Number of vehicle models: 0
+[19:15:11] plugin.bcrypt: Version check failed.
+[19:19:50] SERVER: MySQL Connection was successful.
+[19:19:50] Number of vehicle models: 0
+[19:19:50] plugin.bcrypt: Version check failed.
+[19:24:56] SERVER: MySQL Connection was successful.
+[19:24:56] Number of vehicle models: 0
+[19:24:56] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:54:39] 
+[19:54:39] Server Plugins
+[19:54:39] --------------
+[19:54:39]  Loading plugin: mysql.dll
+[19:54:40]  >> plugin.mysql: R41-4 successfully loaded.
+[19:54:40]   Loaded.
+[19:54:40]  Loading plugin: bcrypt-samp.dll
+[19:54:40]   plugin.bcrypt v2.2.3 was loaded.
+[19:54:40]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[19:54:40]   Loaded.
+[19:54:40]  Loading plugin: pawncmd.dll
+[19:54:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:54:40]   Loaded.
+[19:54:40]  Loading plugin: streamer.dll
+[19:54:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:54:40]   Loaded.
+[19:54:40]  Loading plugin: sscanf.dll
+[19:54:40] 
+
+[19:54:40]  ===============================
+
+[19:54:40]       sscanf plugin loaded.     
+
+[19:54:40]          Version:  2.8.2        
+
+[19:54:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:54:40]  ===============================
+
+[19:54:40]   Loaded.
+[19:54:40]  Loaded 5 plugins.
+
+[19:54:40] 
+[19:54:40] Filterscripts
+[19:54:40] ---------------
+[19:54:40]   Loaded 0 filterscripts.
+
+[19:54:41] SERVER: MySQL Connection was successful.
+[19:54:41] Number of vehicle models: 0
+[19:54:41] plugin.bcrypt: Version check failed.
+[19:55:07] [connection] 127.0.0.1:52257 requests connection cookie.
+[19:55:08] [connection] incoming connection: 127.0.0.1:52257 id: 0
+[19:55:08] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[20:07:04] SERVER: MySQL Connection was successful.
+[20:07:04] Number of vehicle models: 0
+[20:07:04] plugin.bcrypt: Version check failed.
+[20:13:07] SERVER: MySQL Connection was successful.
+[20:13:07] Number of vehicle models: 0
+[20:13:07] plugin.bcrypt: Version check failed.
+[20:17:03] SERVER: MySQL Connection was successful.
+[20:17:03] Number of vehicle models: 0
+[20:17:06] plugin.bcrypt: Version check failed.
+[20:22:03] SERVER: MySQL Connection was successful.
+[20:22:03] Number of vehicle models: 0
+[20:22:03] plugin.bcrypt: Version check failed.
+[20:23:26] SERVER: MySQL Connection was successful.
+[20:23:26] Number of vehicle models: 0
+[20:23:26] plugin.bcrypt: Version check failed.
+[20:24:43] SERVER: MySQL Connection was successful.
+[20:24:43] Number of vehicle models: 0
+[20:24:43] plugin.bcrypt: Version check failed.
+[20:46:40] SERVER: MySQL Connection was successful.
+[20:46:40] Number of vehicle models: 0
+[20:46:41] plugin.bcrypt: Version check failed.
+[20:47:28] SERVER: MySQL Connection was successful.
+[20:47:28] Number of vehicle models: 0
+[20:47:28] plugin.bcrypt: Version check failed.
+[20:48:31] [part] Pavel_Markin has left the server (0:1)
+[20:48:59] [connection] 127.0.0.1:64954 requests connection cookie.
+[20:49:00] [connection] incoming connection: 127.0.0.1:64954 id: 0
+[20:49:01] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[20:49:39] SERVER: MySQL Connection was successful.
+[20:49:39] Number of vehicle models: 0
+[20:49:39] plugin.bcrypt: Version check failed.
+[20:50:32] SERVER: MySQL Connection was successful.
+[20:50:32] Number of vehicle models: 0
+[20:50:32] plugin.bcrypt: Version check failed.
+Console input: gmx
+[20:54:51] SERVER: MySQL Connection was successful.
+[20:54:51] Number of vehicle models: 0
+[20:54:53] plugin.bcrypt: Version check failed.
+[20:55:38] SERVER: MySQL Connection was successful.
+[20:55:38] Number of vehicle models: 0
+[20:55:38] plugin.bcrypt: Version check failed.
+[20:55:44] 00
+[20:55:53] 105001
+[20:56:23] 105003
+[20:59:16] SERVER: MySQL Connection was successful.
+[20:59:16] Number of vehicle models: 0
+[20:59:19] plugin.bcrypt: Version check failed.
+[20:59:34] 105003
+[21:01:48] SERVER: MySQL Connection was successful.
+[21:01:48] Number of vehicle models: 0
+[21:01:48] plugin.bcrypt: Version check failed.
+[21:03:01] SERVER: MySQL Connection was successful.
+[21:03:01] Number of vehicle models: 0
+[21:03:01] plugin.bcrypt: Version check failed.
+[21:03:32] SERVER: MySQL Connection was successful.
+[21:03:32] Number of vehicle models: 0
+[21:03:32] plugin.bcrypt: Version check failed.
+[21:04:03] SERVER: MySQL Connection was successful.
+[21:04:03] Number of vehicle models: 0
+[21:04:03] plugin.bcrypt: Version check failed.
+[21:04:21] SERVER: MySQL Connection was successful.
+[21:04:21] Number of vehicle models: 0
+[21:04:22] plugin.bcrypt: Version check failed.
+[21:04:54] SERVER: MySQL Connection was successful.
+[21:04:54] Number of vehicle models: 0
+[21:04:54] plugin.bcrypt: Version check failed.
+[21:05:04] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:05:32] 
+[21:05:32] Server Plugins
+[21:05:32] --------------
+[21:05:32]  Loading plugin: mysql.dll
+[21:05:32]  >> plugin.mysql: R41-4 successfully loaded.
+[21:05:32]   Loaded.
+[21:05:32]  Loading plugin: bcrypt-samp.dll
+[21:05:32]   plugin.bcrypt v2.2.3 was loaded.
+[21:05:32]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[21:05:32]   Loaded.
+[21:05:32]  Loading plugin: pawncmd.dll
+[21:05:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:05:32]   Loaded.
+[21:05:32]  Loading plugin: streamer.dll
+[21:05:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:05:32]   Loaded.
+[21:05:32]  Loading plugin: sscanf.dll
+[21:05:32] 
+
+[21:05:32]  ===============================
+
+[21:05:32]       sscanf plugin loaded.     
+
+[21:05:32]          Version:  2.8.2        
+
+[21:05:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:05:32]  ===============================
+
+[21:05:32]   Loaded.
+[21:05:32]  Loaded 5 plugins.
+
+[21:05:32] 
+[21:05:32] Filterscripts
+[21:05:32] ---------------
+[21:05:32]   Loaded 0 filterscripts.
+
+[21:05:32] SERVER: MySQL Connection was successful.
+[21:05:32] Number of vehicle models: 0
+[21:05:32] plugin.bcrypt: Version check failed.
+[21:06:19] [connection] 127.0.0.1:51353 requests connection cookie.
+[21:06:20] [connection] incoming connection: 127.0.0.1:51353 id: 0
+[21:06:20] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[21:08:56] SERVER: MySQL Connection was successful.
+[21:08:56] Number of vehicle models: 0
+[21:08:56] plugin.bcrypt: Version check failed.
+[21:09:31] SERVER: MySQL Connection was successful.
+[21:09:31] Number of vehicle models: 0
+[21:09:31] plugin.bcrypt: Version check failed.
+[21:10:05] SERVER: MySQL Connection was successful.
+[21:10:05] Number of vehicle models: 0
+[21:10:07] plugin.bcrypt: Version check failed.
+[21:10:27] SERVER: MySQL Connection was successful.
+[21:10:27] Number of vehicle models: 0
+[21:10:27] plugin.bcrypt: Version check failed.
+[21:10:48] SERVER: MySQL Connection was successful.
+[21:10:48] Number of vehicle models: 0
+[21:10:48] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:29:40] 
+[22:29:40] Server Plugins
+[22:29:40] --------------
+[22:29:40]  Loading plugin: mysql.dll
+[22:29:40]  >> plugin.mysql: R41-4 successfully loaded.
+[22:29:40]   Loaded.
+[22:29:40]  Loading plugin: bcrypt-samp.dll
+[22:29:40]   plugin.bcrypt v2.2.3 was loaded.
+[22:29:40]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[22:29:40]   Loaded.
+[22:29:40]  Loading plugin: pawncmd.dll
+[22:29:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:29:40]   Loaded.
+[22:29:40]  Loading plugin: streamer.dll
+[22:29:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:29:40]   Loaded.
+[22:29:40]  Loading plugin: sscanf.dll
+[22:29:40] 
+
+[22:29:40]  ===============================
+
+[22:29:40]       sscanf plugin loaded.     
+
+[22:29:40]          Version:  2.8.2        
+
+[22:29:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:29:40]  ===============================
+
+[22:29:40]   Loaded.
+[22:29:40]  Loaded 5 plugins.
+
+[22:29:40] 
+[22:29:40] Filterscripts
+[22:29:40] ---------------
+[22:29:40]   Loaded 0 filterscripts.
+
+[22:29:40] SERVER: MySQL Connection was successful.
+[22:29:40] Number of vehicle models: 0
+[22:29:40] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:30:07] 
+[22:30:07] Server Plugins
+[22:30:07] --------------
+[22:30:07]  Loading plugin: mysql.dll
+[22:30:07]  >> plugin.mysql: R41-4 successfully loaded.
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: bcrypt-samp.dll
+[22:30:07]   plugin.bcrypt v2.2.3 was loaded.
+[22:30:07]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: pawncmd.dll
+[22:30:07] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: streamer.dll
+[22:30:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:30:07]   Loaded.
+[22:30:07]  Loading plugin: sscanf.dll
+[22:30:07] 
+
+[22:30:07]  ===============================
+
+[22:30:07]       sscanf plugin loaded.     
+
+[22:30:07]          Version:  2.8.2        
+
+[22:30:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:30:07]  ===============================
+
+[22:30:07]   Loaded.
+[22:30:07]  Loaded 5 plugins.
+
+[22:30:07] 
+[22:30:07] Filterscripts
+[22:30:07] ---------------
+[22:30:07]   Loaded 0 filterscripts.
+
+[22:30:07] SERVER: MySQL Connection was successful.
+[22:30:07] Number of vehicle models: 0
+[22:30:07] plugin.bcrypt: Version check failed.
+[22:30:33] [connection] 127.0.0.1:56188 requests connection cookie.
+[22:30:34] [connection] incoming connection: 127.0.0.1:56188 id: 0
+[22:30:35] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[22:32:35] SERVER: MySQL Connection was successful.
+[22:32:35] Number of vehicle models: 0
+[22:32:35] plugin.bcrypt: Version check failed.
+[22:34:23] SERVER: MySQL Connection was successful.
+[22:34:23] Number of vehicle models: 0
+[22:34:23] plugin.bcrypt: Version check failed.
+[22:36:31] SERVER: MySQL Connection was successful.
+[22:36:31] Number of vehicle models: 0
+[22:36:32] plugin.bcrypt: Version check failed.
+[22:36:50] [part] Pavel_Markin has left the server (0:1)
+[22:37:13] [connection] 127.0.0.1:62957 requests connection cookie.
+[22:37:14] [connection] incoming connection: 127.0.0.1:62957 id: 0
+[22:37:14] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[22:44:27] SERVER: MySQL Connection was successful.
+[22:44:27] Number of vehicle models: 0
+[22:44:27] plugin.bcrypt: Version check failed.
+[22:46:03] SERVER: MySQL Connection was successful.
+[22:46:03] Number of vehicle models: 0
+[22:46:03] plugin.bcrypt: Version check failed.
+[22:46:24] 00
+[22:47:32] SERVER: MySQL Connection was successful.
+[22:47:32] Number of vehicle models: 0
+[22:47:32] plugin.bcrypt: Version check failed.
+[22:48:22] SERVER: MySQL Connection was successful.
+[22:48:22] Number of vehicle models: 0
+[22:48:25] plugin.bcrypt: Version check failed.
+[22:49:47] SERVER: MySQL Connection was successful.
+[22:49:47] Number of vehicle models: 0
+[22:49:48] plugin.bcrypt: Version check failed.
+[22:49:50] 0
+[22:51:57] SERVER: MySQL Connection was successful.
+[22:51:57] Number of vehicle models: 0
+[22:51:57] plugin.bcrypt: Version check failed.
+[22:51:59] 05000
+[22:52:02] 00
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:01:54] 
+[23:01:54] Server Plugins
+[23:01:54] --------------
+[23:01:54]  Loading plugin: mysql.dll
+[23:01:54]  >> plugin.mysql: R41-4 successfully loaded.
+[23:01:54]   Loaded.
+[23:01:54]  Loading plugin: bcrypt-samp.dll
+[23:01:54]   plugin.bcrypt v2.2.3 was loaded.
+[23:01:54]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:01:54]   Loaded.
+[23:01:54]  Loading plugin: pawncmd.dll
+[23:01:54] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:01:54]   Loaded.
+[23:01:54]  Loading plugin: streamer.dll
+[23:01:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:01:54]   Loaded.
+[23:01:54]  Loading plugin: sscanf.dll
+[23:01:54] 
+
+[23:01:54]  ===============================
+
+[23:01:54]       sscanf plugin loaded.     
+
+[23:01:54]          Version:  2.8.2        
+
+[23:01:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:01:54]  ===============================
+
+[23:01:54]   Loaded.
+[23:01:54]  Loaded 5 plugins.
+
+[23:01:54] 
+[23:01:54] Filterscripts
+[23:01:54] ---------------
+[23:01:54]   Loaded 0 filterscripts.
+
+[23:01:54] SERVER: MySQL Connection was successful.
+[23:01:54] Number of vehicle models: 0
+[23:01:55] plugin.bcrypt: Version check failed.
+[23:01:58] [connection] 127.0.0.1:51528 requests connection cookie.
+[23:01:59] [connection] incoming connection: 127.0.0.1:51528 id: 0
+[23:02:09] [connection] incoming connection: 127.0.0.1:51531 id: 0
+[23:02:22] [connection] incoming connection: 127.0.0.1:51534 id: 0
+[23:02:22] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[23:02:25] 05000
+[23:03:30] 00
+[23:03:43] SERVER: MySQL Connection was successful.
+[23:03:43] Number of vehicle models: 0
+[23:03:43] plugin.bcrypt: Version check failed.
+[23:03:46] 050001
+[23:05:22] SERVER: MySQL Connection was successful.
+[23:05:22] Number of vehicle models: 0
+[23:05:23] plugin.bcrypt: Version check failed.
+[23:05:26] 05000
+[23:08:53] SERVER: MySQL Connection was successful.
+[23:08:53] Number of vehicle models: 0
+[23:08:53] plugin.bcrypt: Version check failed.
+[23:08:56] 05000
+[23:09:42] 05000
+[23:09:47] 00
+[23:10:17] 05000
+[23:10:18] 00
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:14:48] 
+[23:14:48] Server Plugins
+[23:14:48] --------------
+[23:14:48]  Loading plugin: mysql.dll
+[23:14:49]  >> plugin.mysql: R41-4 successfully loaded.
+[23:14:49]   Loaded.
+[23:14:49]  Loading plugin: bcrypt-samp.dll
+[23:14:49]   plugin.bcrypt v2.2.3 was loaded.
+[23:14:49]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:14:49]   Loaded.
+[23:14:49]  Loading plugin: pawncmd.dll
+[23:14:49] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:14:49]   Loaded.
+[23:14:49]  Loading plugin: streamer.dll
+[23:14:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:14:49]   Loaded.
+[23:14:49]  Loading plugin: sscanf.dll
+[23:14:49] 
+
+[23:14:49]  ===============================
+
+[23:14:49]       sscanf plugin loaded.     
+
+[23:14:49]          Version:  2.8.2        
+
+[23:14:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:14:49]  ===============================
+
+[23:14:49]   Loaded.
+[23:14:49]  Loaded 5 plugins.
+
+[23:14:49] 
+[23:14:49] Filterscripts
+[23:14:49] ---------------
+[23:14:49]   Loaded 0 filterscripts.
+
+[23:14:49] SERVER: MySQL Connection was successful.
+[23:14:49] Number of vehicle models: 0
+[23:14:49] plugin.bcrypt: Version check failed.
+[23:14:52] [connection] 127.0.0.1:56950 requests connection cookie.
+[23:14:53] [connection] incoming connection: 127.0.0.1:56950 id: 0
+[23:14:54] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[23:15:29] SERVER: MySQL Connection was successful.
+[23:15:29] Number of vehicle models: 0
+[23:15:29] plugin.bcrypt: Version check failed.
+[23:16:20] 105001
+[23:16:33] 105001
+[23:18:02] 105001
+[23:20:54] SERVER: MySQL Connection was successful.
+[23:20:54] Number of vehicle models: 0
+[23:20:55] plugin.bcrypt: Version check failed.
+[23:20:57] 105001
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:24:09] 
+[23:24:09] Server Plugins
+[23:24:09] --------------
+[23:24:09]  Loading plugin: mysql.dll
+[23:24:09]  >> plugin.mysql: R41-4 successfully loaded.
+[23:24:09]   Loaded.
+[23:24:09]  Loading plugin: bcrypt-samp.dll
+[23:24:09]   plugin.bcrypt v2.2.3 was loaded.
+[23:24:09]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:24:09]   Loaded.
+[23:24:09]  Loading plugin: pawncmd.dll
+[23:24:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:24:09]   Loaded.
+[23:24:09]  Loading plugin: streamer.dll
+[23:24:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:24:09]   Loaded.
+[23:24:09]  Loading plugin: sscanf.dll
+[23:24:09] 
+
+[23:24:09]  ===============================
+
+[23:24:09]       sscanf plugin loaded.     
+
+[23:24:09]          Version:  2.8.2        
+
+[23:24:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:24:09]  ===============================
+
+[23:24:09]   Loaded.
+[23:24:09]  Loaded 5 plugins.
+
+[23:24:09] 
+[23:24:09] Filterscripts
+[23:24:09] ---------------
+[23:24:09]   Loading filterscript 'nanimation.amx'...
+[23:24:09]   Loaded 1 filterscripts.
+
+[23:24:09] SERVER: MySQL Connection was successful.
+[23:24:09] Number of vehicle models: 0
+[23:24:09] plugin.bcrypt: Version check failed.
+[23:24:16] [connection] 127.0.0.1:49610 requests connection cookie.
+[23:24:17] [connection] incoming connection: 127.0.0.1:49610 id: 0
+[23:24:18] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[23:24:20] 105001
+[23:30:50] SERVER: MySQL Connection was successful.
+[23:30:50] Number of vehicle models: 0
+[23:30:51] plugin.bcrypt: Version check failed.
+[23:31:23] SERVER: MySQL Connection was successful.
+[23:31:23] Number of vehicle models: 0
+[23:31:24] plugin.bcrypt: Version check failed.
+[23:31:53] SERVER: MySQL Connection was successful.
+[23:31:53] Number of vehicle models: 0
+[23:31:53] plugin.bcrypt: Version check failed.
+[23:32:25] SERVER: MySQL Connection was successful.
+[23:32:25] Number of vehicle models: 0
+[23:32:25] plugin.bcrypt: Version check failed.
+[23:32:53] SERVER: MySQL Connection was successful.
+[23:32:53] Number of vehicle models: 0
+[23:32:54] plugin.bcrypt: Version check failed.
+[23:33:23] SERVER: MySQL Connection was successful.
+[23:33:23] Number of vehicle models: 0
+[23:33:23] plugin.bcrypt: Version check failed.
+[23:33:48] SERVER: MySQL Connection was successful.
+[23:33:48] Number of vehicle models: 0
+[23:33:48] plugin.bcrypt: Version check failed.
+[23:34:17] SERVER: MySQL Connection was successful.
+[23:34:17] Number of vehicle models: 0
+[23:34:17] plugin.bcrypt: Version check failed.
+[23:34:49] SERVER: MySQL Connection was successful.
+[23:34:49] Number of vehicle models: 0
+[23:34:50] plugin.bcrypt: Version check failed.
+[23:38:16] SERVER: MySQL Connection was successful.
+[23:38:16] Number of vehicle models: 0
+[23:38:16] plugin.bcrypt: Version check failed.
+[23:42:37] SERVER: MySQL Connection was successful.
+[23:42:37] Number of vehicle models: 0
+[23:42:37] plugin.bcrypt: Version check failed.
+[00:06:01] SERVER: MySQL Connection was successful.
+[00:06:01] Number of vehicle models: 0
+[00:06:01] plugin.bcrypt: Version check failed.
+[00:21:23] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:07:32] 
+[01:07:32] Server Plugins
+[01:07:32] --------------
+[01:07:32]  Loading plugin: mysql.dll
+[01:07:32]  >> plugin.mysql: R41-4 successfully loaded.
+[01:07:32]   Loaded.
+[01:07:32]  Loading plugin: bcrypt-samp.dll
+[01:07:32]   plugin.bcrypt v2.2.3 was loaded.
+[01:07:32]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:07:32]   Loaded.
+[01:07:32]  Loading plugin: pawncmd.dll
+[01:07:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:07:32]   Loaded.
+[01:07:32]  Loading plugin: streamer.dll
+[01:07:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:07:32]   Loaded.
+[01:07:32]  Loading plugin: sscanf.dll
+[01:07:32] 
+
+[01:07:32]  ===============================
+
+[01:07:32]       sscanf plugin loaded.     
+
+[01:07:32]          Version:  2.8.2        
+
+[01:07:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:07:32]  ===============================
+
+[01:07:32]   Loaded.
+[01:07:32]  Loaded 5 plugins.
+
+[01:07:32] 
+[01:07:32] Filterscripts
+[01:07:32] ---------------
+[01:07:32]   Loading filterscript 'nanimation.amx'...
+[01:07:32]   Unable to load filterscript 'nanimation.amx'.
+[01:07:32]   Loaded 0 filterscripts.
+
+[01:07:32] SERVER: MySQL Connection was successful.
+[01:07:32] Number of vehicle models: 0
+[01:07:32] plugin.bcrypt: Version check failed.
+[01:07:58] [connection] 127.0.0.1:50290 requests connection cookie.
+[01:07:59] [connection] incoming connection: 127.0.0.1:50290 id: 0
+[01:07:59] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:24:31] SERVER: MySQL Connection was successful.
+[01:24:31] Number of vehicle models: 0
+[01:24:31] plugin.bcrypt: Version check failed.
+[01:26:19] SERVER: MySQL Connection was successful.
+[01:26:19] Number of vehicle models: 0
+[01:26:19] plugin.bcrypt: Version check failed.
+[01:28:07] SERVER: MySQL Connection was successful.
+[01:28:07] Number of vehicle models: 0
+[01:28:07] plugin.bcrypt: Version check failed.
+[01:29:12] SERVER: MySQL Connection was successful.
+[01:29:12] Number of vehicle models: 0
+[01:29:12] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:32:45] 
+[01:32:45] Server Plugins
+[01:32:45] --------------
+[01:32:45]  Loading plugin: mysql.dll
+[01:32:45]  >> plugin.mysql: R41-4 successfully loaded.
+[01:32:45]   Loaded.
+[01:32:45]  Loading plugin: bcrypt-samp.dll
+[01:32:45]   plugin.bcrypt v2.2.3 was loaded.
+[01:32:45]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:32:45]   Loaded.
+[01:32:45]  Loading plugin: pawncmd.dll
+[01:32:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:32:45]   Loaded.
+[01:32:45]  Loading plugin: streamer.dll
+[01:32:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:32:45]   Loaded.
+[01:32:45]  Loading plugin: sscanf.dll
+[01:32:45] 
+
+[01:32:45]  ===============================
+
+[01:32:45]       sscanf plugin loaded.     
+
+[01:32:45]          Version:  2.8.2        
+
+[01:32:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:32:45]  ===============================
+
+[01:32:45]   Loaded.
+[01:32:45]  Loaded 5 plugins.
+
+[01:32:45] 
+[01:32:45] Filterscripts
+[01:32:45] ---------------
+[01:32:45]   Loading filterscript 'nanimation.amx'...
+[01:32:45]   Loaded 1 filterscripts.
+
+[01:32:45] SERVER: MySQL Connection was successful.
+[01:32:45] Number of vehicle models: 0
+[01:32:45] plugin.bcrypt: Version check failed.
+[01:33:07] [connection] 127.0.0.1:64498 requests connection cookie.
+[01:33:09] [connection] incoming connection: 127.0.0.1:64498 id: 0
+[01:33:09] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:37:21] SERVER: MySQL Connection was successful.
+[01:37:21] Number of vehicle models: 0
+[01:37:21] plugin.bcrypt: Version check failed.
+[01:44:12] SERVER: MySQL Connection was successful.
+[01:44:12] Number of vehicle models: 0
+[01:44:12] plugin.bcrypt: Version check failed.
+[01:44:49] SERVER: MySQL Connection was successful.
+[01:44:49] Number of vehicle models: 0
+[01:44:49] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:48:45] 
+[01:48:45] Server Plugins
+[01:48:45] --------------
+[01:48:45]  Loading plugin: mysql.dll
+[01:48:45]  >> plugin.mysql: R41-4 successfully loaded.
+[01:48:45]   Loaded.
+[01:48:45]  Loading plugin: bcrypt-samp.dll
+[01:48:45]   plugin.bcrypt v2.2.3 was loaded.
+[01:48:45]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:48:45]   Loaded.
+[01:48:45]  Loading plugin: pawncmd.dll
+[01:48:45] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:48:45]   Loaded.
+[01:48:45]  Loading plugin: streamer.dll
+[01:48:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:48:45]   Loaded.
+[01:48:45]  Loading plugin: sscanf.dll
+[01:48:45] 
+
+[01:48:45]  ===============================
+
+[01:48:45]       sscanf plugin loaded.     
+
+[01:48:45]          Version:  2.8.2        
+
+[01:48:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:48:45]  ===============================
+
+[01:48:45]   Loaded.
+[01:48:45]  Loaded 5 plugins.
+
+[01:48:45] 
+[01:48:45] Filterscripts
+[01:48:45] ---------------
+[01:48:45]   Loading filterscript 'nanimation.amx'...
+[01:48:45]   Loading filterscript 'attach.amx'...
+[01:48:45]   Unable to load filterscript 'attach.amx'.
+[01:48:45]   Loaded 1 filterscripts.
+
+[01:48:45] SERVER: MySQL Connection was successful.
+[01:48:45] Number of vehicle models: 0
+[01:48:45] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:51:21] 
+[01:51:21] Server Plugins
+[01:51:21] --------------
+[01:51:21]  Loading plugin: mysql.dll
+[01:51:21]  >> plugin.mysql: R41-4 successfully loaded.
+[01:51:21]   Loaded.
+[01:51:21]  Loading plugin: bcrypt-samp.dll
+[01:51:21]   plugin.bcrypt v2.2.3 was loaded.
+[01:51:21]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:51:21]   Loaded.
+[01:51:21]  Loading plugin: pawncmd.dll
+[01:51:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:51:21]   Loaded.
+[01:51:21]  Loading plugin: streamer.dll
+[01:51:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:51:21]   Loaded.
+[01:51:21]  Loading plugin: sscanf.dll
+[01:51:21] 
+
+[01:51:21]  ===============================
+
+[01:51:21]       sscanf plugin loaded.     
+
+[01:51:21]          Version:  2.8.2        
+
+[01:51:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:51:21]  ===============================
+
+[01:51:21]   Loaded.
+[01:51:21]  Loaded 5 plugins.
+
+[01:51:21] 
+[01:51:21] Filterscripts
+[01:51:21] ---------------
+[01:51:21]   Loading filterscript 'nanimation.amx'...
+[01:51:21]   Loading filterscript 'attach.amx'...
+[01:51:21]   Loaded 2 filterscripts.
+
+[01:51:21] SERVER: MySQL Connection was successful.
+[01:51:21] Number of vehicle models: 0
+[01:51:21] plugin.bcrypt: Version check failed.
+[01:51:27] [connection] 127.0.0.1:56761 requests connection cookie.
+[01:51:28] [connection] incoming connection: 127.0.0.1:56761 id: 0
+[01:51:28] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:51:39] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:51:47] 
+[01:51:47] Server Plugins
+[01:51:47] --------------
+[01:51:47]  Loading plugin: mysql.dll
+[01:51:47]  >> plugin.mysql: R41-4 successfully loaded.
+[01:51:47]   Loaded.
+[01:51:47]  Loading plugin: bcrypt-samp.dll
+[01:51:47]   plugin.bcrypt v2.2.3 was loaded.
+[01:51:47]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[01:51:47]   Loaded.
+[01:51:47]  Loading plugin: pawncmd.dll
+[01:51:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[01:51:47]   Loaded.
+[01:51:47]  Loading plugin: streamer.dll
+[01:51:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:51:47]   Loaded.
+[01:51:47]  Loading plugin: sscanf.dll
+[01:51:47] 
+
+[01:51:47]  ===============================
+
+[01:51:47]       sscanf plugin loaded.     
+
+[01:51:47]          Version:  2.8.2        
+
+[01:51:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:51:47]  ===============================
+
+[01:51:47]   Loaded.
+[01:51:47]  Loaded 5 plugins.
+
+[01:51:47] 
+[01:51:47] Filterscripts
+[01:51:47] ---------------
+[01:51:47]   Loading filterscript 'nanimation.amx'...
+[01:51:47]   Loading filterscript 'attach.amx'...
+[01:51:47]   Loaded 2 filterscripts.
+
+[01:51:47] SERVER: MySQL Connection was successful.
+[01:51:47] Number of vehicle models: 0
+[01:51:47] plugin.bcrypt: Version check failed.
+[01:52:12] [connection] 127.0.0.1:56763 requests connection cookie.
+[01:52:13] [connection] incoming connection: 127.0.0.1:56763 id: 0
+[01:52:13] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:56:15] SERVER: MySQL Connection was successful.
+[01:56:15] Number of vehicle models: 0
+[01:56:16] plugin.bcrypt: Version check failed.
+[02:06:49] SERVER: MySQL Connection was successful.
+[02:06:49] Number of vehicle models: 0
+[02:06:49] plugin.bcrypt: Version check failed.
+[02:09:55] SERVER: MySQL Connection was successful.
+[02:09:55] Number of vehicle models: 0
+[02:09:55] plugin.bcrypt: Version check failed.
+[02:11:42] SERVER: MySQL Connection was successful.
+[02:11:42] Number of vehicle models: 0
+[02:11:43] plugin.bcrypt: Version check failed.
+[02:26:16] SERVER: MySQL Connection was successful.
+[02:26:16] Number of vehicle models: 0
+[02:26:17] plugin.bcrypt: Version check failed.
+[02:26:56] SERVER: MySQL Connection was successful.
+[02:26:56] Number of vehicle models: 0
+[02:26:56] plugin.bcrypt: Version check failed.
+[02:27:35] SERVER: MySQL Connection was successful.
+[02:27:35] Number of vehicle models: 0
+[02:27:35] plugin.bcrypt: Version check failed.
+[02:28:31] [part] Pavel_Markin has left the server (0:1)
+[02:28:58] [connection] 127.0.0.1:49476 requests connection cookie.
+[02:28:59] [connection] incoming connection: 127.0.0.1:49476 id: 0
+[02:28:59] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[02:47:48] SERVER: MySQL Connection was successful.
+[02:47:48] Number of vehicle models: 0
+[02:47:48] plugin.bcrypt: Version check failed.
+[02:52:15] SERVER: MySQL Connection was successful.
+[02:52:15] Number of vehicle models: 0
+[02:52:15] plugin.bcrypt: Version check failed.
+[02:53:10] SERVER: MySQL Connection was successful.
+[02:53:10] Number of vehicle models: 0
+[02:53:10] plugin.bcrypt: Version check failed.
+[02:54:46] SERVER: MySQL Connection was successful.
+[02:54:46] Number of vehicle models: 0
+[02:54:46] plugin.bcrypt: Version check failed.
+[02:56:42] SERVER: MySQL Connection was successful.
+[02:56:42] Number of vehicle models: 0
+[02:56:42] plugin.bcrypt: Version check failed.
+[03:08:16] SERVER: MySQL Connection was successful.
+[03:08:16] Number of vehicle models: 0
+[03:08:16] plugin.bcrypt: Version check failed.
+[03:08:52] SERVER: MySQL Connection was successful.
+[03:08:52] Number of vehicle models: 0
+[03:08:53] plugin.bcrypt: Version check failed.
+[03:14:13] SERVER: MySQL Connection was successful.
+[03:14:13] Number of vehicle models: 0
+[03:14:13] plugin.bcrypt: Version check failed.
+[03:21:07] SERVER: MySQL Connection was successful.
+[03:21:07] Number of vehicle models: 0
+[03:21:10] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:29:05] 
+[03:29:05] Server Plugins
+[03:29:05] --------------
+[03:29:05]  Loading plugin: mysql.dll
+[03:29:05]  >> plugin.mysql: R41-4 successfully loaded.
+[03:29:05]   Loaded.
+[03:29:05]  Loading plugin: bcrypt-samp.dll
+[03:29:05]   plugin.bcrypt v2.2.3 was loaded.
+[03:29:05]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[03:29:05]   Loaded.
+[03:29:05]  Loading plugin: pawncmd.dll
+[03:29:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[03:29:05]   Loaded.
+[03:29:05]  Loading plugin: streamer.dll
+[03:29:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[03:29:05]   Loaded.
+[03:29:05]  Loading plugin: sscanf.dll
+[03:29:05] 
+
+[03:29:05]  ===============================
+
+[03:29:05]       sscanf plugin loaded.     
+
+[03:29:05]          Version:  2.8.2        
+
+[03:29:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:29:05]  ===============================
+
+[03:29:05]   Loaded.
+[03:29:05]  Loaded 5 plugins.
+
+[03:29:05] 
+[03:29:05] Filterscripts
+[03:29:05] ---------------
+[03:29:05]   Loading filterscript 'nanimation.amx'...
+[03:29:05]   Loading filterscript 'attach.amx'...
+[03:29:05]   Loaded 2 filterscripts.
+
+[03:29:07] SERVER: MySQL Connection was successful.
+[03:29:07] Number of vehicle models: 0
+[03:29:07] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:35:26] 
+[12:35:26] Server Plugins
+[12:35:26] --------------
+[12:35:26]  Loading plugin: mysql.dll
+[12:35:26]  >> plugin.mysql: R41-4 successfully loaded.
+[12:35:26]   Loaded.
+[12:35:26]  Loading plugin: bcrypt-samp.dll
+[12:35:27]   plugin.bcrypt v2.2.3 was loaded.
+[12:35:27]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[12:35:27]   Loaded.
+[12:35:27]  Loading plugin: pawncmd.dll
+[12:35:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:35:27]   Loaded.
+[12:35:27]  Loading plugin: streamer.dll
+[12:35:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:35:27]   Loaded.
+[12:35:27]  Loading plugin: sscanf.dll
+[12:35:27] 
+
+[12:35:27]  ===============================
+
+[12:35:27]       sscanf plugin loaded.     
+
+[12:35:27]          Version:  2.8.2        
+
+[12:35:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:35:27]  ===============================
+
+[12:35:27]   Loaded.
+[12:35:27]  Loaded 5 plugins.
+
+[12:35:27] 
+[12:35:27] Filterscripts
+[12:35:27] ---------------
+[12:35:27]   Loading filterscript 'nanimation.amx'...
+[12:35:27]   Loading filterscript 'attach.amx'...
+[12:35:27]   Loaded 2 filterscripts.
+
+[12:35:28] SERVER: MySQL Connection was successful.
+[12:35:28] Number of vehicle models: 0
+[12:35:28] plugin.bcrypt: Version check failed.
+[12:35:58] [connection] 127.0.0.1:51527 requests connection cookie.
+[12:35:59] [connection] incoming connection: 127.0.0.1:51527 id: 0
+[12:35:59] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:04] 
+[15:04:04] Server Plugins
+[15:04:04] --------------
+[15:04:04]  Loading plugin: mysql.dll
+[15:04:04]  >> plugin.mysql: R41-4 successfully loaded.
+[15:04:04]   Loaded.
+[15:04:04]  Loading plugin: bcrypt-samp.dll
+[15:04:04]   plugin.bcrypt v2.2.3 was loaded.
+[15:04:04]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:04:04]   Loaded.
+[15:04:04]  Loading plugin: pawncmd.dll
+[15:04:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:04:04]   Loaded.
+[15:04:04]  Loading plugin: streamer.dll
+[15:04:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:04:04]   Loaded.
+[15:04:04]  Loading plugin: sscanf.dll
+[15:04:04] 
+
+[15:04:04]  ===============================
+
+[15:04:04]       sscanf plugin loaded.     
+
+[15:04:04]          Version:  2.8.2        
+
+[15:04:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:04:04]  ===============================
+
+[15:04:04]   Loaded.
+[15:04:04]  Loaded 5 plugins.
+
+[15:04:04] 
+[15:04:04] Filterscripts
+[15:04:04] ---------------
+[15:04:04]   Loading filterscript 'nanimation.amx'...
+[15:04:04]   Loading filterscript 'attach.amx'...
+[15:04:04]   Loaded 2 filterscripts.
+
+[15:04:17] SERVER: MySQL Connection failed, shutting the server down!
+[15:04:17] Number of vehicle models: 0
+[15:04:17] --- Server Shutting Down.
+[15:04:17] plugin.mysql: Unloading plugin...
+[15:04:17] plugin.mysql: Plugin unloaded.
+[15:04:17] plugin.bcrypt: Plugin unloaded.
+[15:04:17] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[15:04:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[15:04:18] 
+
+[15:04:18]  ===============================
+
+[15:04:18]      sscanf plugin unloaded.    
+
+[15:04:18]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:37] 
+[15:04:37] Server Plugins
+[15:04:37] --------------
+[15:04:37]  Loading plugin: mysql.dll
+[15:04:37]  >> plugin.mysql: R41-4 successfully loaded.
+[15:04:37]   Loaded.
+[15:04:37]  Loading plugin: bcrypt-samp.dll
+[15:04:37]   plugin.bcrypt v2.2.3 was loaded.
+[15:04:37]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:04:37]   Loaded.
+[15:04:37]  Loading plugin: pawncmd.dll
+[15:04:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:04:37]   Loaded.
+[15:04:37]  Loading plugin: streamer.dll
+[15:04:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:04:37]   Loaded.
+[15:04:37]  Loading plugin: sscanf.dll
+[15:04:37] 
+
+[15:04:37]  ===============================
+
+[15:04:37]       sscanf plugin loaded.     
+
+[15:04:37]          Version:  2.8.2        
+
+[15:04:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:04:37]  ===============================
+
+[15:04:37]   Loaded.
+[15:04:37]  Loaded 5 plugins.
+
+[15:04:37] 
+[15:04:37] Filterscripts
+[15:04:37] ---------------
+[15:04:37]   Loading filterscript 'nanimation.amx'...
+[15:04:37]   Loading filterscript 'attach.amx'...
+[15:04:37]   Loaded 2 filterscripts.
+
+[15:04:37] SERVER: MySQL Connection was successful.
+[15:04:37] Number of vehicle models: 0
+[15:04:37] plugin.bcrypt: Version check failed.
+[15:04:42] [connection] 127.0.0.1:50647 requests connection cookie.
+[15:04:43] [connection] incoming connection: 127.0.0.1:50647 id: 0
+[15:04:43] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[15:05:43] SERVER: MySQL Connection was successful.
+[15:05:43] Number of vehicle models: 0
+[15:05:43] plugin.bcrypt: Version check failed.
+[15:12:35] SERVER: MySQL Connection was successful.
+[15:12:35] Number of vehicle models: 0
+[15:12:35] plugin.bcrypt: Version check failed.
+[15:12:50] gregergr
+[15:19:27] SERVER: MySQL Connection was successful.
+[15:19:27] Number of vehicle models: 0
+[15:19:27] plugin.bcrypt: Version check failed.
+[16:16:14] SERVER: MySQL Connection was successful.
+[16:16:14] Number of vehicle models: 0
+[16:16:14] plugin.bcrypt: Version check failed.
+[16:20:03] SERVER: MySQL Connection was successful.
+[16:20:03] Number of vehicle models: 0
+[16:20:03] plugin.bcrypt: Version check failed.
+[16:25:12] SERVER: MySQL Connection was successful.
+[16:25:12] Number of vehicle models: 0
+[16:25:12] plugin.bcrypt: Version check failed.
+[16:25:35] 0
+[16:26:17] SERVER: MySQL Connection was successful.
+[16:26:17] Number of vehicle models: 0
+[16:26:17] plugin.bcrypt: Version check failed.
+[16:26:22] 0
+[16:27:24] SERVER: MySQL Connection was successful.
+[16:27:24] Number of vehicle models: 0
+[16:27:24] plugin.bcrypt: Version check failed.
+[16:27:29] 100
+[16:35:53] SERVER: MySQL Connection was successful.
+[16:35:53] Number of vehicle models: 0
+[16:35:53] plugin.bcrypt: Version check failed.
+[16:37:53] SERVER: MySQL Connection was successful.
+[16:37:53] Number of vehicle models: 0
+[16:37:53] plugin.bcrypt: Version check failed.
+[16:42:59] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:46:22] 
+[18:46:22] Server Plugins
+[18:46:22] --------------
+[18:46:22]  Loading plugin: mysql.dll
+[18:46:22]  >> plugin.mysql: R41-4 successfully loaded.
+[18:46:22]   Loaded.
+[18:46:22]  Loading plugin: bcrypt-samp.dll
+[18:46:22]   plugin.bcrypt v2.2.3 was loaded.
+[18:46:22]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[18:46:22]   Loaded.
+[18:46:22]  Loading plugin: pawncmd.dll
+[18:46:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:46:22]   Loaded.
+[18:46:22]  Loading plugin: streamer.dll
+[18:46:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:46:22]   Loaded.
+[18:46:22]  Loading plugin: sscanf.dll
+[18:46:22] 
+
+[18:46:22]  ===============================
+
+[18:46:22]       sscanf plugin loaded.     
+
+[18:46:22]          Version:  2.8.2        
+
+[18:46:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:46:22]  ===============================
+
+[18:46:22]   Loaded.
+[18:46:22]  Loaded 5 plugins.
+
+[18:46:22] 
+[18:46:22] Filterscripts
+[18:46:23] ---------------
+[18:46:23]   Loading filterscript 'nanimation.amx'...
+[18:46:23]   Loading filterscript 'attach.amx'...
+[18:46:23]   Loaded 2 filterscripts.
+
+[18:46:23] SERVER: MySQL Connection was successful.
+[18:46:23] Number of vehicle models: 0
+[18:46:23] plugin.bcrypt: Version check failed.
+[18:46:47] [connection] 127.0.0.1:51304 requests connection cookie.
+[18:46:48] [connection] incoming connection: 127.0.0.1:51304 id: 0
+[18:46:48] [join] Pavel_Markins has joined the server (0:127.0.0.1)
+[18:49:21] SERVER: MySQL Connection was successful.
+[18:49:21] Number of vehicle models: 0
+[18:49:21] plugin.bcrypt: Version check failed.
+[18:49:56] SERVER: MySQL Connection was successful.
+[18:49:56] Number of vehicle models: 0
+[18:49:56] plugin.bcrypt: Version check failed.
+[18:50:18] SERVER: MySQL Connection was successful.
+[18:50:18] Number of vehicle models: 0
+[18:50:18] plugin.bcrypt: Version check failed.
+[18:50:49] SERVER: MySQL Connection was successful.
+[18:50:49] Number of vehicle models: 0
+[18:50:49] plugin.bcrypt: Version check failed.
+[18:51:24] SERVER: MySQL Connection was successful.
+[18:51:24] Number of vehicle models: 0
+[18:51:25] plugin.bcrypt: Version check failed.
+[18:52:25] SERVER: MySQL Connection was successful.
+[18:52:25] Number of vehicle models: 0
+[18:52:25] plugin.bcrypt: Version check failed.
+[18:53:14] SERVER: MySQL Connection was successful.
+[18:53:14] Number of vehicle models: 0
+[18:53:14] plugin.bcrypt: Version check failed.
+[18:54:59] SERVER: MySQL Connection was successful.
+[18:54:59] Number of vehicle models: 0
+[18:54:59] plugin.bcrypt: Version check failed.
+[19:03:21] SERVER: MySQL Connection was successful.
+[19:03:21] Number of vehicle models: 0
+[19:03:22] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:09:47] 
+[19:09:47] Server Plugins
+[19:09:47] --------------
+[19:09:47]  Loading plugin: mysql.dll
+[19:09:47]  >> plugin.mysql: R41-4 successfully loaded.
+[19:09:47]   Loaded.
+[19:09:47]  Loading plugin: bcrypt-samp.dll
+[19:09:47]   plugin.bcrypt v2.2.3 was loaded.
+[19:09:47]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[19:09:47]   Loaded.
+[19:09:47]  Loading plugin: pawncmd.dll
+[19:09:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:09:47]   Loaded.
+[19:09:47]  Loading plugin: streamer.dll
+[19:09:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:09:47]   Loaded.
+[19:09:47]  Loading plugin: sscanf.dll
+[19:09:47] 
+
+[19:09:47]  ===============================
+
+[19:09:47]       sscanf plugin loaded.     
+
+[19:09:47]          Version:  2.8.2        
+
+[19:09:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:09:47]  ===============================
+
+[19:09:47]   Loaded.
+[19:09:47]  Loaded 5 plugins.
+
+[19:09:47] 
+[19:09:47] Filterscripts
+[19:09:47] ---------------
+[19:09:47]   Loading filterscript 'nanimation.amx'...
+[19:09:47]   Loading filterscript 'attach.amx'...
+[19:09:47]   Loaded 2 filterscripts.
+
+[19:09:47] SERVER: MySQL Connection was successful.
+[19:09:47] Number of vehicle models: 0
+[19:09:47] plugin.bcrypt: Version check failed.
+[19:09:57] [connection] 127.0.0.1:51427 requests connection cookie.
+[19:09:58] [connection] incoming connection: 127.0.0.1:51427 id: 0
+[19:09:58] [join] Pavel_Markins has joined the server (0:127.0.0.1)
+[19:14:39] SERVER: MySQL Connection was successful.
+[19:14:39] Number of vehicle models: 0
+[19:14:39] plugin.bcrypt: Version check failed.
+[19:16:55] SERVER: MySQL Connection was successful.
+[19:16:55] Number of vehicle models: 0
+[19:16:56] plugin.bcrypt: Version check failed.
+[19:23:07] SERVER: MySQL Connection was successful.
+[19:23:07] Number of vehicle models: 0
+[19:23:07] plugin.bcrypt: Version check failed.
+[19:24:03] SERVER: MySQL Connection was successful.
+[19:24:03] Number of vehicle models: 0
+[19:24:03] plugin.bcrypt: Version check failed.
+[19:28:03] SERVER: MySQL Connection was successful.
+[19:28:03] Number of vehicle models: 0
+[19:28:03] plugin.bcrypt: Version check failed.
+[19:32:24] SERVER: MySQL Connection was successful.
+[19:32:24] Number of vehicle models: 0
+[19:32:24] plugin.bcrypt: Version check failed.
+[19:35:27] SERVER: MySQL Connection was successful.
+[19:35:27] Number of vehicle models: 0
+[19:35:27] plugin.bcrypt: Version check failed.
+[19:36:17] SERVER: MySQL Connection was successful.
+[19:36:17] Number of vehicle models: 0
+[19:36:18] plugin.bcrypt: Version check failed.
+[19:45:37] SERVER: MySQL Connection was successful.
+[19:45:37] Number of vehicle models: 0
+[19:45:38] plugin.bcrypt: Version check failed.
+[19:47:02] SERVER: MySQL Connection was successful.
+[19:47:02] Number of vehicle models: 0
+[19:47:02] plugin.bcrypt: Version check failed.
+[19:47:56] SERVER: MySQL Connection was successful.
+[19:47:56] Number of vehicle models: 0
+[19:47:56] plugin.bcrypt: Version check failed.
+[19:47:59] first
+[19:47:59] gergr
+[19:47:59] gergr
+[19:47:59] gergr
+[19:47:59] gergr
+[19:47:59] gergr
+[19:47:59] gergr
+[19:47:59] gergr
+[21:05:51] SERVER: MySQL Connection was successful.
+[21:05:51] Number of vehicle models: 0
+[21:05:51] plugin.bcrypt: Version check failed.
+[21:06:10] first
+[21:06:10] gergr
+[21:06:11] gergr
+[21:06:11] gergr
+[21:06:11] gergr
+[21:06:11] gergr
+[21:06:11] gergr
+[21:06:11] gergr
+[21:06:11] Pavel        
+[21:08:17] SERVER: MySQL Connection was successful.
+[21:08:17] Number of vehicle models: 0
+[21:08:17] plugin.bcrypt: Version check failed.
+[21:08:29] Pavel_Markins
+[21:12:19] Pavel_Markins
+[21:12:57] SERVER: MySQL Connection was successful.
+[21:12:57] Number of vehicle models: 0
+[21:12:57] plugin.bcrypt: Version check failed.
+[21:13:04] first
+[21:13:04] gergr
+[21:13:04] gergr
+[21:13:04] gergr
+[21:13:04] gergr
+[21:13:04] gergr
+[21:13:04] gergr
+[21:13:04] gergr
+[21:13:04] Pavel        
+[21:13:57] SERVER: MySQL Connection was successful.
+[21:13:57] Number of vehicle models: 0
+[21:13:57] plugin.bcrypt: Version check failed.
+[21:14:01] first
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] gergr
+[21:14:01] Pavel         
+[21:14:58] SERVER: MySQL Connection was successful.
+[21:14:58] Number of vehicle models: 0
+[21:14:58] plugin.bcrypt: Version check failed.
+[21:15:05] first
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:05] gergr
+[21:15:59] SERVER: MySQL Connection was successful.
+[21:15:59] Number of vehicle models: 0
+[21:15:59] plugin.bcrypt: Version check failed.
+[21:16:03] first
+[21:17:33] SERVER: MySQL Connection was successful.
+[21:17:33] Number of vehicle models: 0
+[21:17:33] plugin.bcrypt: Version check failed.
+[21:18:54] SERVER: MySQL Connection was successful.
+[21:18:54] Number of vehicle models: 0
+[21:18:54] plugin.bcrypt: Version check failed.
+[21:20:15] SERVER: MySQL Connection was successful.
+[21:20:15] Number of vehicle models: 0
+[21:20:15] plugin.bcrypt: Version check failed.
+[21:20:50] SERVER: MySQL Connection was successful.
+[21:20:50] Number of vehicle models: 0
+[21:20:50] plugin.bcrypt: Version check failed.
+[21:23:37] SERVER: MySQL Connection was successful.
+[21:23:37] Number of vehicle models: 0
+[21:23:37] plugin.bcrypt: Version check failed.
+[21:23:41] Pavel_Markins
+[21:23:41] Pavel_Markins
+[21:23:41] Pavel_Markins
+[21:23:41] Pavel_Markins
+[21:23:41] Pavel_Markins
+[21:23:41] Pavel_Markins
+[21:23:41] Pavel_Markins
+[21:24:28] SERVER: MySQL Connection was successful.
+[21:24:28] Number of vehicle models: 0
+[21:24:29] plugin.bcrypt: Version check failed.
+[21:26:46] SERVER: MySQL Connection was successful.
+[21:26:46] Number of vehicle models: 0
+[21:26:46] plugin.bcrypt: Version check failed.
+[21:29:28] SERVER: MySQL Connection was successful.
+[21:29:28] Number of vehicle models: 0
+[21:29:28] plugin.bcrypt: Version check failed.
+[21:32:32] SERVER: MySQL Connection was successful.
+[21:32:32] Number of vehicle models: 0
+[21:32:33] plugin.bcrypt: Version check failed.
+[21:32:37] 
+[21:34:11] Script[gamemodes/logreg.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[21:34:11] Failed to load 'gamemodes/logreg.amx' script.
+[21:34:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:19] 
+[21:34:19] Server Plugins
+[21:34:19] --------------
+[21:34:19]  Loading plugin: mysql.dll
+[21:34:19]  >> plugin.mysql: R41-4 successfully loaded.
+[21:34:19]   Loaded.
+[21:34:19]  Loading plugin: bcrypt-samp.dll
+[21:34:19]   plugin.bcrypt v2.2.3 was loaded.
+[21:34:19]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[21:34:19]   Loaded.
+[21:34:19]  Loading plugin: pawncmd.dll
+[21:34:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:34:19]   Loaded.
+[21:34:19]  Loading plugin: streamer.dll
+[21:34:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:34:19]   Loaded.
+[21:34:19]  Loading plugin: sscanf.dll
+[21:34:19] 
+
+[21:34:19]  ===============================
+
+[21:34:19]       sscanf plugin loaded.     
+
+[21:34:19]          Version:  2.8.2        
+
+[21:34:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:34:20]  ===============================
+
+[21:34:20]   Loaded.
+[21:34:20]  Loaded 5 plugins.
+
+[21:34:20] 
+[21:34:20] Filterscripts
+[21:34:20] ---------------
+[21:34:20]   Loading filterscript 'nanimation.amx'...
+[21:34:20]   Loading filterscript 'attach.amx'...
+[21:34:20]   Loaded 2 filterscripts.
+
+[21:34:20] SERVER: MySQL Connection was successful.
+[21:34:20] Number of vehicle models: 0
+[21:34:20] plugin.bcrypt: Version check failed.
+[21:34:25] [connection] 127.0.0.1:58109 requests connection cookie.
+[21:34:26] [connection] incoming connection: 127.0.0.1:58109 id: 0
+[21:34:26] [join] Pavel_Markins has joined the server (0:127.0.0.1)
+[21:34:35] Marki
+[21:35:02] SERVER: MySQL Connection was successful.
+[21:35:02] Number of vehicle models: 0
+[21:35:02] plugin.bcrypt: Version check failed.
+[21:35:32] SERVER: MySQL Connection was successful.
+[21:35:32] Number of vehicle models: 0
+[21:35:32] plugin.bcrypt: Version check failed.
+[21:35:37] Markins
+[00:34:27] [part] Pavel_Markins has left the server (0:1)
+[00:35:07] [connection] 127.0.0.1:55777 requests connection cookie.
+[00:35:08] [connection] incoming connection: 127.0.0.1:55777 id: 0
+[00:35:08] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[00:35:28] MarkinsMarkin
+[00:36:00] MarkinsMarkinMarkin
+[00:36:12] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:37:04] 
+[00:37:04] Server Plugins
+[00:37:04] --------------
+[00:37:04]  Loading plugin: mysql.dll
+[00:37:04]  >> plugin.mysql: R41-4 successfully loaded.
+[00:37:04]   Loaded.
+[00:37:04]  Loading plugin: bcrypt-samp.dll
+[00:37:04]   plugin.bcrypt v2.2.3 was loaded.
+[00:37:04]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[00:37:04]   Loaded.
+[00:37:04]  Loading plugin: pawncmd.dll
+[00:37:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:37:04]   Loaded.
+[00:37:04]  Loading plugin: streamer.dll
+[00:37:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:37:04]   Loaded.
+[00:37:04]  Loading plugin: sscanf.dll
+[00:37:05] 
+
+[00:37:05]  ===============================
+
+[00:37:05]       sscanf plugin loaded.     
+
+[00:37:05]          Version:  2.8.2        
+
+[00:37:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:37:05]  ===============================
+
+[00:37:05]   Loaded.
+[00:37:05]  Loaded 5 plugins.
+
+[00:37:05] 
+[00:37:05] Filterscripts
+[00:37:05] ---------------
+[00:37:05]   Loading filterscript 'nanimation.amx'...
+[00:37:05]   Loading filterscript 'attach.amx'...
+[00:37:05]   Loaded 2 filterscripts.
+
+[00:37:05] SERVER: MySQL Connection was successful.
+[00:37:05] Number of vehicle models: 0
+[00:37:05] plugin.bcrypt: Version check failed.
+[00:37:28] [connection] 127.0.0.1:50050 requests connection cookie.
+[00:37:29] [connection] incoming connection: 127.0.0.1:50050 id: 0
+[00:37:29] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[00:38:15] Markin
+[00:38:34] MarkinMarkin
+[00:38:39] MarkinMarkinMarkin
+[00:38:41] MarkinMarkinMarkinMarkin
+[00:38:42] MarkinMarkinMarkinMarkinMarkin%s
+[00:40:41] SERVER: MySQL Connection was successful.
+[00:40:41] Number of vehicle models: 0
+[00:40:41] plugin.bcrypt: Version check failed.
+[00:40:44] Markin
+[00:40:45] MarkinMarkin
+[00:40:46] MarkinMarkinMarkin
+[00:40:48] MarkinMarkinMarkinMarkin
+[00:40:48] MarkinMarkinMarkinMarkinMarkin%s
+[00:49:43] SERVER: MySQL Connection was successful.
+[00:49:43] Number of vehicle models: 0
+[00:49:44] plugin.bcrypt: Version check failed.
+[00:49:48] Markin
+[00:49:49] MarkinMarkin
+[00:49:50] MarkinMarkinMarkin
+[00:49:51] MarkinMarkinMarkinMarkin
+[00:49:54] MarkinMarkinMarkinMarkinMarkin%s
+[00:50:27] SERVER: MySQL Connection was successful.
+[00:50:27] Number of vehicle models: 0
+[00:50:27] plugin.bcrypt: Version check failed.
+[00:51:35] SERVER: MySQL Connection was successful.
+[00:51:35] Number of vehicle models: 0
+[00:51:35] plugin.bcrypt: Version check failed.
+[00:51:44] Markin
+[00:51:44] MarkinMarkin
+[00:51:46] MarkinMarkinMarkin
+[00:51:46] MarkinMarkinMarkinMarkin
+[00:51:48] MarkinMarkinMarkinMarkinMarkin%s
+[00:52:07] SERVER: MySQL Connection was successful.
+[00:52:07] Number of vehicle models: 0
+[00:52:07] plugin.bcrypt: Version check failed.
+[00:52:10] Markin
+[00:52:10] MarkinMarkin
+[00:52:14] MarkinMarkinMarkin
+[00:52:14] MarkinMarkinMarkinMarkin
+[00:53:46] SERVER: MySQL Connection was successful.
+[00:53:46] Number of vehicle models: 0
+[00:53:46] plugin.bcrypt: Version check failed.
+[00:53:49] Markin
+[00:53:53] MarkinMarkin
+[00:53:57] MarkinMarkinMarkin
+[00:54:00] MarkinMarkinMarkinMarkin
+[00:54:03] MarkinMarkinMarkinMarkinMarkin%s
+[00:54:41] SERVER: MySQL Connection was successful.
+[00:54:41] Number of vehicle models: 0
+[00:54:41] plugin.bcrypt: Version check failed.
+[00:54:45] Markin
+[00:54:48] MarkinMarkin
+[00:54:49] MarkinMarkinMarkin
+[00:54:52] MarkinMarkinMarkinMarkin
+[00:55:03] MarkinMarkinMarkinMarkinMarkin%s
+[00:56:18] SERVER: MySQL Connection was successful.
+[00:56:18] Number of vehicle models: 0
+[00:56:18] plugin.bcrypt: Version check failed.
+[00:56:36] Markin
+[00:56:39] MarkinMarkin
+[00:56:42] MarkinMarkinMarkin
+[00:56:58] MarkinMarkinMarkinMarkin
+[00:58:15] SERVER: MySQL Connection was successful.
+[00:58:15] Number of vehicle models: 0
+[00:58:15] plugin.bcrypt: Version check failed.
+[00:58:19] Markin
+[00:58:24] MarkinMarkin
+[00:58:30] MarkinMarkinMarkin
+[00:58:35] MarkinMarkinMarkinMarkin
+[00:59:35] MarkinMarkinMarkinMarkinMarkin%s
+[00:59:50] SERVER: MySQL Connection was successful.
+[00:59:50] Number of vehicle models: 0
+[00:59:50] plugin.bcrypt: Version check failed.
+[00:59:53] Markin
+[00:59:57] MarkinMarkin
+[01:00:06] MarkinMarkinMarkin
+[01:03:26] SERVER: MySQL Connection was successful.
+[01:03:26] Number of vehicle models: 0
+[01:03:26] plugin.bcrypt: Version check failed.
+[01:04:34] SERVER: MySQL Connection was successful.
+[01:04:34] Number of vehicle models: 0
+[01:04:34] plugin.bcrypt: Version check failed.
+[01:04:39] Markin
+[01:04:40] MarkinMarkin
+[01:04:41] MarkinMarkinMarkin
+[01:04:46] MarkinMarkinMarkinMarkin
+[01:04:48] MarkinMarkinMarkinMarkinMarkin%s
+[01:06:03] SERVER: MySQL Connection was successful.
+[01:06:03] Number of vehicle models: 0
+[01:06:03] plugin.bcrypt: Version check failed.
+[01:07:02] SERVER: MySQL Connection was successful.
+[01:07:02] Number of vehicle models: 0
+[01:07:02] plugin.bcrypt: Version check failed.
+[01:10:32] SERVER: MySQL Connection was successful.
+[01:10:32] Number of vehicle models: 0
+[01:10:32] plugin.bcrypt: Version check failed.
+[01:11:43] SERVER: MySQL Connection was successful.
+[01:11:43] Number of vehicle models: 0
+[01:11:44] plugin.bcrypt: Version check failed.
+[01:13:33] SERVER: MySQL Connection was successful.
+[01:13:33] Number of vehicle models: 0
+[01:13:33] plugin.bcrypt: Version check failed.
+[01:14:44] SERVER: MySQL Connection was successful.
+[01:14:44] Number of vehicle models: 0
+[01:14:44] plugin.bcrypt: Version check failed.
+[01:16:05] SERVER: MySQL Connection was successful.
+[01:16:05] Number of vehicle models: 0
+[01:16:05] plugin.bcrypt: Version check failed.
+[01:17:13] SERVER: MySQL Connection was successful.
+[01:17:13] Number of vehicle models: 0
+[01:17:13] plugin.bcrypt: Version check failed.
+[01:19:37] SERVER: MySQL Connection was successful.
+[01:19:37] Number of vehicle models: 0
+[01:19:37] plugin.bcrypt: Version check failed.
+[01:21:42] SERVER: MySQL Connection was successful.
+[01:21:42] Number of vehicle models: 0
+[01:21:43] plugin.bcrypt: Version check failed.
+[01:23:01] SERVER: MySQL Connection was successful.
+[01:23:01] Number of vehicle models: 0
+[01:23:02] plugin.bcrypt: Version check failed.
+[01:24:02] SERVER: MySQL Connection was successful.
+[01:24:02] Number of vehicle models: 0
+[01:24:03] plugin.bcrypt: Version check failed.
+[01:24:53] [part] Pavel_Markin has left the server (0:1)
+[01:25:20] [connection] 127.0.0.1:52430 requests connection cookie.
+[01:25:21] [connection] incoming connection: 127.0.0.1:52430 id: 0
+[01:25:22] [join] Los_Amigos has joined the server (0:127.0.0.1)
+[01:27:09] SERVER: MySQL Connection was successful.
+[01:27:09] Number of vehicle models: 0
+[01:27:09] plugin.bcrypt: Version check failed.
+[01:27:41] SERVER: MySQL Connection was successful.
+[01:27:41] Number of vehicle models: 0
+[01:27:41] plugin.bcrypt: Version check failed.
+[01:28:33] SERVER: MySQL Connection was successful.
+[01:28:33] Number of vehicle models: 0
+[01:28:34] plugin.bcrypt: Version check failed.
+[01:29:13] SERVER: MySQL Connection was successful.
+[01:29:13] Number of vehicle models: 0
+[01:29:13] plugin.bcrypt: Version check failed.
+[01:29:49] SERVER: MySQL Connection was successful.
+[01:29:49] Number of vehicle models: 0
+[01:29:49] plugin.bcrypt: Version check failed.
+[01:30:25] SERVER: MySQL Connection was successful.
+[01:30:25] Number of vehicle models: 0
+[01:30:25] plugin.bcrypt: Version check failed.
+[01:31:19] SERVER: MySQL Connection was successful.
+[01:31:19] Number of vehicle models: 0
+[01:31:19] plugin.bcrypt: Version check failed.
+[01:32:05] SERVER: MySQL Connection was successful.
+[01:32:05] Number of vehicle models: 0
+[01:32:06] plugin.bcrypt: Version check failed.
+[01:32:09] Los_     s
+[01:32:59] SERVER: MySQL Connection was successful.
+[01:32:59] Number of vehicle models: 0
+[01:32:59] plugin.bcrypt: Version check failed.
+[01:33:01] Los       
+[01:44:31] SERVER: MySQL Connection was successful.
+[01:44:31] Number of vehicle models: 0
+[01:44:31] plugin.bcrypt: Version check failed.
+[01:46:33] SERVER: MySQL Connection was successful.
+[01:46:33] Number of vehicle models: 0
+[01:46:33] plugin.bcrypt: Version check failed.
+[01:47:23] [part] Los_Amigos has left the server (0:1)
+[01:51:11] [connection] 127.0.0.1:62396 requests connection cookie.
+[01:51:12] [connection] incoming connection: 127.0.0.1:62396 id: 0
+[01:51:13] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[01:51:51] [connection] 127.0.0.1:57280 requests connection cookie.
+[01:51:52] [connection] incoming connection: 127.0.0.1:57280 id: 1
+[01:51:52] [join] Los_Amigos has joined the server (1:127.0.0.1)
+[01:53:54] SERVER: MySQL Connection was successful.
+[01:53:54] Number of vehicle models: 0
+[01:53:54] plugin.bcrypt: Version check failed.
+[01:55:03] SERVER: MySQL Connection was successful.
+[01:55:03] Number of vehicle models: 0
+[01:55:03] plugin.bcrypt: Version check failed.
+[01:57:33] SERVER: MySQL Connection was successful.
+[01:57:33] Number of vehicle models: 0
+[01:57:34] plugin.bcrypt: Version check failed.
+[01:59:52] SERVER: MySQL Connection failed, shutting the server down!
+[01:59:52] Number of vehicle models: 0
+[01:59:52] --- Server Shutting Down.
+[01:59:52] [part] Pavel_Markin has left the server (0:0)
+[01:59:52] [part] Los_Amigos has left the server (1:0)
+[01:59:52] plugin.mysql: Unloading plugin...
+[01:59:53] plugin.mysql: Plugin unloaded.
+[01:59:53] plugin.bcrypt: Plugin unloaded.
+[01:59:53] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[01:59:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[01:59:53] 
+
+[01:59:53]  ===============================
+
+[01:59:53]      sscanf plugin unloaded.    
+
+[01:59:53]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:02:05] 
+[02:02:05] Server Plugins
+[02:02:05] --------------
+[02:02:05]  Loading plugin: mysql.dll
+[02:02:05]  >> plugin.mysql: R41-4 successfully loaded.
+[02:02:05]   Loaded.
+[02:02:05]  Loading plugin: bcrypt-samp.dll
+[02:02:05]   plugin.bcrypt v2.2.3 was loaded.
+[02:02:05]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[02:02:05]   Loaded.
+[02:02:05]  Loading plugin: pawncmd.dll
+[02:02:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:02:05]   Loaded.
+[02:02:05]  Loading plugin: streamer.dll
+[02:02:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:02:05]   Loaded.
+[02:02:05]  Loading plugin: sscanf.dll
+[02:02:05] 
+
+[02:02:05]  ===============================
+
+[02:02:05]       sscanf plugin loaded.     
+
+[02:02:05]          Version:  2.8.2        
+
+[02:02:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:02:05]  ===============================
+
+[02:02:05]   Loaded.
+[02:02:05]  Loaded 5 plugins.
+
+[02:02:05] 
+[02:02:05] Filterscripts
+[02:02:05] ---------------
+[02:02:05]   Loading filterscript 'nanimation.amx'...
+[02:02:05]   Loading filterscript 'attach.amx'...
+[02:02:05]   Loaded 2 filterscripts.
+
+[02:02:05] SERVER: MySQL Connection was successful.
+[02:02:05] Number of vehicle models: 0
+[02:02:09] plugin.bcrypt: Version check failed.
+[02:02:33] [connection] 127.0.0.1:52286 requests connection cookie.
+[02:02:34] [connection] incoming connection: 127.0.0.1:52286 id: 0
+[02:02:42] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[02:03:32] [connection] 127.0.0.1:60703 requests connection cookie.
+[02:03:33] [connection] incoming connection: 127.0.0.1:60703 id: 1
+[02:03:33] [join] Los_Amigos has joined the server (1:127.0.0.1)
+[02:06:00] SERVER: MySQL Connection failed, shutting the server down!
+[02:06:00] Number of vehicle models: 0
+[02:06:00] --- Server Shutting Down.
+[02:06:00] [part] Pavel_Markin has left the server (0:0)
+[02:06:00] [part] Los_Amigos has left the server (1:0)
+[02:06:00] plugin.mysql: Unloading plugin...
+[02:06:00] plugin.mysql: Plugin unloaded.
+[02:06:00] plugin.bcrypt: Plugin unloaded.
+[02:06:00] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[02:06:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[02:06:00] 
+
+[02:06:00]  ===============================
+
+[02:06:00]      sscanf plugin unloaded.    
+
+[02:06:00]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:06:25] 
+[02:06:25] Server Plugins
+[02:06:25] --------------
+[02:06:25]  Loading plugin: mysql.dll
+[02:06:25]  >> plugin.mysql: R41-4 successfully loaded.
+[02:06:25]   Loaded.
+[02:06:25]  Loading plugin: bcrypt-samp.dll
+[02:06:25]   plugin.bcrypt v2.2.3 was loaded.
+[02:06:25]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[02:06:25]   Loaded.
+[02:06:25]  Loading plugin: pawncmd.dll
+[02:06:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:06:25]   Loaded.
+[02:06:25]  Loading plugin: streamer.dll
+[02:06:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:06:25]   Loaded.
+[02:06:25]  Loading plugin: sscanf.dll
+[02:06:25] 
+
+[02:06:25]  ===============================
+
+[02:06:25]       sscanf plugin loaded.     
+
+[02:06:25]          Version:  2.8.2        
+
+[02:06:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:06:25]  ===============================
+
+[02:06:25]   Loaded.
+[02:06:25]  Loaded 5 plugins.
+
+[02:06:25] 
+[02:06:25] Filterscripts
+[02:06:25] ---------------
+[02:06:25]   Loading filterscript 'nanimation.amx'...
+[02:06:25]   Loading filterscript 'attach.amx'...
+[02:06:25]   Loaded 2 filterscripts.
+
+[02:06:25] SERVER: MySQL Connection was successful.
+[02:06:25] Number of vehicle models: 0
+[02:06:25] plugin.bcrypt: Version check failed.
+[02:06:49] [connection] 127.0.0.1:58428 requests connection cookie.
+[02:06:50] [connection] incoming connection: 127.0.0.1:58428 id: 0
+[02:06:50] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[02:07:32] SERVER: MySQL Connection failed, shutting the server down!
+[02:07:32] Number of vehicle models: 0
+[02:07:32] --- Server Shutting Down.
+[02:07:32] [part] Pavel_Markin has left the server (0:0)
+[02:07:32] plugin.mysql: Unloading plugin...
+[02:07:32] plugin.mysql: Plugin unloaded.
+[02:07:32] plugin.bcrypt: Plugin unloaded.
+[02:07:32] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[02:07:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[02:07:32] 
+
+[02:07:32]  ===============================
+
+[02:07:32]      sscanf plugin unloaded.    
+
+[02:07:32]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:08:30] 
+[02:08:30] Server Plugins
+[02:08:30] --------------
+[02:08:30]  Loading plugin: mysql.dll
+[02:08:30]  >> plugin.mysql: R41-4 successfully loaded.
+[02:08:30]   Loaded.
+[02:08:30]  Loading plugin: bcrypt-samp.dll
+[02:08:30]   plugin.bcrypt v2.2.3 was loaded.
+[02:08:30]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[02:08:30]   Loaded.
+[02:08:30]  Loading plugin: pawncmd.dll
+[02:08:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[02:08:30]   Loaded.
+[02:08:30]  Loading plugin: streamer.dll
+[02:08:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:08:30]   Loaded.
+[02:08:30]  Loading plugin: sscanf.dll
+[02:08:30] 
+
+[02:08:30]  ===============================
+
+[02:08:30]       sscanf plugin loaded.     
+
+[02:08:30]          Version:  2.8.2        
+
+[02:08:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:08:30]  ===============================
+
+[02:08:30]   Loaded.
+[02:08:30]  Loaded 5 plugins.
+
+[02:08:30] 
+[02:08:30] Filterscripts
+[02:08:30] ---------------
+[02:08:30]   Loading filterscript 'nanimation.amx'...
+[02:08:30]   Loading filterscript 'attach.amx'...
+[02:08:30]   Loaded 2 filterscripts.
+
+[02:08:30] SERVER: MySQL Connection was successful.
+[02:08:30] Number of vehicle models: 0
+[02:08:30] plugin.bcrypt: Version check failed.
+[02:10:33] [connection] 127.0.0.1:63155 requests connection cookie.
+[02:10:34] [connection] incoming connection: 127.0.0.1:63155 id: 0
+[02:10:34] [join] Pavel_Markin has joined the server (0:127.0.0.1)
+[02:11:03] SERVER: MySQL Connection was successful.
+[02:11:03] Number of vehicle models: 0
+[02:11:03] plugin.bcrypt: Version check failed.
+[02:11:28] SERVER: MySQL Connection was successful.
+[02:11:28] Number of vehicle models: 0
+[02:11:28] plugin.bcrypt: Version check failed.
+[02:12:00] [connection] 127.0.0.1:53406 requests connection cookie.
+[02:12:01] [connection] incoming connection: 127.0.0.1:53406 id: 1
+[02:12:01] [join] Los_Amigos has joined the server (1:127.0.0.1)
+[02:17:25] SERVER: MySQL Connection was successful.
+[02:17:25] Number of vehicle models: 0
+[02:17:25] plugin.bcrypt: Version check failed.
+[02:20:01] SERVER: MySQL Connection was successful.
+[02:20:01] Number of vehicle models: 0
+[02:20:01] plugin.bcrypt: Version check failed.
+[02:25:24] SERVER: MySQL Connection was successful.
+[02:25:24] Number of vehicle models: 0
+[02:25:24] plugin.bcrypt: Version check failed.
+[02:27:37] SERVER: MySQL Connection was successful.
+[02:27:37] Number of vehicle models: 0
+[02:27:37] plugin.bcrypt: Version check failed.
+[02:29:28] SERVER: MySQL Connection was successful.
+[02:29:28] Number of vehicle models: 0
+[02:29:28] plugin.bcrypt: Version check failed.
+[02:31:35] SERVER: MySQL Connection was successful.
+[02:31:35] Number of vehicle models: 0
+[02:31:35] plugin.bcrypt: Version check failed.
+[02:33:33] SERVER: MySQL Connection was successful.
+[02:33:33] Number of vehicle models: 0
+[02:33:33] plugin.bcrypt: Version check failed.
+[02:34:51] SERVER: MySQL Connection was successful.
+[02:34:51] Number of vehicle models: 0
+[02:34:51] plugin.bcrypt: Version check failed.
+[02:38:06] SERVER: MySQL Connection was successful.
+[02:38:06] Number of vehicle models: 0
+[02:38:06] plugin.bcrypt: Version check failed.
+[02:40:31] SERVER: MySQL Connection was successful.
+[02:40:31] Number of vehicle models: 0
+[02:40:32] plugin.bcrypt: Version check failed.
+[02:43:58] [part] Los_Amigos has left the server (1:1)
+[02:44:01] [part] Pavel_Markin has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[04:47:11] 
+[04:47:11] Server Plugins
+[04:47:11] --------------
+[04:47:11]  Loading plugin: mysql.dll
+[04:47:11]  >> plugin.mysql: R41-4 successfully loaded.
+[04:47:11]   Loaded.
+[04:47:11]  Loading plugin: bcrypt-samp.dll
+[04:47:11]   plugin.bcrypt v2.2.3 was loaded.
+[04:47:11]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[04:47:11]   Loaded.
+[04:47:11]  Loading plugin: pawncmd.dll
+[04:47:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[04:47:11]   Loaded.
+[04:47:11]  Loading plugin: streamer.dll
+[04:47:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[04:47:11]   Loaded.
+[04:47:11]  Loading plugin: sscanf.dll
+[04:47:11] 
+
+[04:47:11]  ===============================
+
+[04:47:11]       sscanf plugin loaded.     
+
+[04:47:11]          Version:  2.8.2        
+
+[04:47:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:47:11]  ===============================
+
+[04:47:11]   Loaded.
+[04:47:11]  Loaded 5 plugins.
+
+[04:47:11] 
+[04:47:11] Filterscripts
+[04:47:11] ---------------
+[04:47:11]   Loading filterscript 'nanimation.amx'...
+[04:47:11]   Loading filterscript 'attach.amx'...
+[04:47:11]   Loaded 2 filterscripts.
+
+[04:47:11] SERVER: MySQL Connection was successful.
+[04:47:11] Number of vehicle models: 0
+[04:47:11] plugin.bcrypt: Version check failed.
+[05:00:08] [connection] 127.0.0.1:49916 requests connection cookie.
+[05:00:09] [connection] incoming connection: 127.0.0.1:49916 id: 0
+[05:00:10] [join] Los_Amigos has joined the server (0:127.0.0.1)
+[05:00:54] SERVER: MySQL Connection was successful.
+[05:00:54] Number of vehicle models: 0
+[05:00:54] plugin.bcrypt: Version check failed.
+[05:03:04] SERVER: MySQL Connection was successful.
+[05:03:04] Number of vehicle models: 0
+[05:03:04] plugin.bcrypt: Version check failed.
+[05:04:44] SERVER: MySQL Connection was successful.
+[05:04:44] Number of vehicle models: 0
+[05:04:44] plugin.bcrypt: Version check failed.
+[05:07:26] SERVER: MySQL Connection was successful.
+[05:07:26] Number of vehicle models: 0
+[05:07:26] plugin.bcrypt: Version check failed.
+[05:16:47] SERVER: MySQL Connection was successful.
+[05:16:47] Number of vehicle models: 0
+[05:16:47] plugin.bcrypt: Version check failed.
+[05:21:58] SERVER: MySQL Connection was successful.
+[05:21:58] Number of vehicle models: 0
+[05:21:58] plugin.bcrypt: Version check failed.
+[05:29:01] SERVER: MySQL Connection was successful.
+[05:29:01] Number of vehicle models: 0
+[05:29:01] plugin.bcrypt: Version check failed.
+[05:30:48] [part] Los_Amigos has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:31:28] 
+[14:31:28] Server Plugins
+[14:31:28] --------------
+[14:31:28]  Loading plugin: mysql.dll
+[14:31:28]  >> plugin.mysql: R41-4 successfully loaded.
+[14:31:28]   Loaded.
+[14:31:28]  Loading plugin: bcrypt-samp.dll
+[14:31:28]   plugin.bcrypt v2.2.3 was loaded.
+[14:31:28]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[14:31:28]   Loaded.
+[14:31:28]  Loading plugin: pawncmd.dll
+[14:31:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:31:28]   Loaded.
+[14:31:28]  Loading plugin: streamer.dll
+[14:31:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:31:28]   Loaded.
+[14:31:28]  Loading plugin: sscanf.dll
+[14:31:28] 
+
+[14:31:28]  ===============================
+
+[14:31:28]       sscanf plugin loaded.     
+
+[14:31:28]          Version:  2.8.2        
+
+[14:31:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:31:28]  ===============================
+
+[14:31:28]   Loaded.
+[14:31:28]  Loaded 5 plugins.
+
+[14:31:28] 
+[14:31:28] Filterscripts
+[14:31:28] ---------------
+[14:31:28]   Loading filterscript 'nanimation.amx'...
+[14:31:28]   Loading filterscript 'attach.amx'...
+[14:31:28]   Loaded 2 filterscripts.
+
+[14:31:28] SERVER: MySQL Connection was successful.
+[14:31:28] Number of vehicle models: 0
+[14:31:28] plugin.bcrypt: Version check failed.
+[14:33:02] [connection] 127.0.0.1:60042 requests connection cookie.
+[14:33:03] [connection] incoming connection: 127.0.0.1:60042 id: 0
+[14:35:26] [connection] incoming connection: 127.0.0.1:57202 id: 0
+[14:35:26] [join] Los_Amigos has joined the server (0:127.0.0.1)
+[14:35:41] SERVER: MySQL Connection was successful.
+[14:35:41] Number of vehicle models: 0
+[14:35:41] plugin.bcrypt: Version check failed.
+[14:37:07] SERVER: MySQL Connection was successful.
+[14:37:07] Number of vehicle models: 0
+[14:37:07] plugin.bcrypt: Version check failed.
+[14:38:00] SERVER: MySQL Connection was successful.
+[14:38:00] Number of vehicle models: 0
+[14:38:00] plugin.bcrypt: Version check failed.
+[14:39:19] SERVER: MySQL Connection was successful.
+[14:39:19] Number of vehicle models: 0
+[14:39:19] plugin.bcrypt: Version check failed.
+[14:41:15] SERVER: MySQL Connection was successful.
+[14:41:15] Number of vehicle models: 0
+[14:41:15] plugin.bcrypt: Version check failed.
+[14:43:27] SERVER: MySQL Connection was successful.
+[14:43:27] Number of vehicle models: 0
+[14:43:27] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:48:13] 
+[14:48:13] Server Plugins
+[14:48:13] --------------
+[14:48:13]  Loading plugin: mysql.dll
+[14:48:13]  >> plugin.mysql: R41-4 successfully loaded.
+[14:48:13]   Loaded.
+[14:48:13]  Loading plugin: bcrypt-samp.dll
+[14:48:13]   plugin.bcrypt v2.2.3 was loaded.
+[14:48:13]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[14:48:13]   Loaded.
+[14:48:13]  Loading plugin: pawncmd.dll
+[14:48:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:48:13]   Loaded.
+[14:48:13]  Loading plugin: streamer.dll
+[14:48:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:48:13]   Loaded.
+[14:48:13]  Loading plugin: sscanf.dll
+[14:48:13] 
+
+[14:48:13]  ===============================
+
+[14:48:13]       sscanf plugin loaded.     
+
+[14:48:13]          Version:  2.8.2        
+
+[14:48:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:48:13]  ===============================
+
+[14:48:13]   Loaded.
+[14:48:13]  Loaded 5 plugins.
+
+[14:48:13] I couldn't load any gamemode scripts. Please verify your server.cfg
+[14:48:13] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:49:30] 
+[14:49:30] Server Plugins
+[14:49:30] --------------
+[14:49:30]  Loading plugin: mysql.dll
+[14:49:30]  >> plugin.mysql: R41-4 successfully loaded.
+[14:49:30]   Loaded.
+[14:49:30]  Loading plugin: bcrypt-samp.dll
+[14:49:30]   plugin.bcrypt v2.2.3 was loaded.
+[14:49:30]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[14:49:30]   Loaded.
+[14:49:30]  Loading plugin: pawncmd.dll
+[14:49:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:49:30]   Loaded.
+[14:49:30]  Loading plugin: streamer.dll
+[14:49:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:49:30]   Loaded.
+[14:49:30]  Loading plugin: sscanf.dll
+[14:49:30] 
+
+[14:49:30]  ===============================
+
+[14:49:30]       sscanf plugin loaded.     
+
+[14:49:30]          Version:  2.8.2        
+
+[14:49:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:49:30]  ===============================
+
+[14:49:30]   Loaded.
+[14:49:30]  Loaded 5 plugins.
+
+[14:49:30] 
+[14:49:30] Filterscripts
+[14:49:30] ---------------
+[14:49:30]   Loading filterscript 'nanimation.amx'...
+[14:49:30]   Loading filterscript 'attach.amx'...
+[14:49:30]   Loaded 2 filterscripts.
+
+[14:49:30] SERVER: MySQL Connection was successful.
+[14:49:30] Number of vehicle models: 0
+[14:49:30] plugin.bcrypt: Version check failed.
+[14:49:35] [connection] 127.0.0.1:55012 requests connection cookie.
+[14:49:36] [connection] incoming connection: 127.0.0.1:55012 id: 0
+[14:49:36] [join] Los_Amigos has joined the server (0:127.0.0.1)
+[14:50:44] SERVER: MySQL Connection was successful.
+[14:50:44] Number of vehicle models: 0
+[14:50:44] plugin.bcrypt: Version check failed.
+[14:51:26] SERVER: MySQL Connection was successful.
+[14:51:26] Number of vehicle models: 0
+[14:51:26] plugin.bcrypt: Version check failed.
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:43] Hello
+[14:51:44] Hello
+[14:51:44] Hello
+[14:51:44] Hello
+[14:52:27] Hello
+[14:52:39] SERVER: MySQL Connection was successful.
+[14:52:39] Number of vehicle models: 0
+[14:52:39] plugin.bcrypt: Version check failed.
+[14:52:47] Hello
+[14:52:47] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:48] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:49] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:50] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:51] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:52] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:53] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:54] Hello
+[14:52:55] Hello
+[14:52:55] Hello
+[14:52:55] Hello
+[14:53:39] Hello
+[14:53:51] SERVER: MySQL Connection was successful.
+[14:53:51] Number of vehicle models: 0
+[14:53:51] plugin.bcrypt: Version check failed.
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:01] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:02] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:03] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:04] Hello
+[14:54:05] Hello
+[14:54:05] Hello
+[14:54:05] Hello
+[14:54:05] Hello
+[14:55:40] Hello
+[14:55:52] SERVER: MySQL Connection was successful.
+[14:55:52] Number of vehicle models: 0
+[14:55:52] plugin.bcrypt: Version check failed.
+[15:01:30] SERVER: MySQL Connection was successful.
+[15:01:30] Number of vehicle models: 0
+[15:01:32] plugin.bcrypt: Version check failed.
+[15:09:49] SERVER: MySQL Connection was successful.
+[15:09:49] Number of vehicle models: 0
+[15:09:50] plugin.bcrypt: Version check failed.
+[15:11:59] SERVER: MySQL Connection was successful.
+[15:11:59] Number of vehicle models: 0
+[15:12:00] plugin.bcrypt: Version check failed.
+[15:18:40] SERVER: MySQL Connection was successful.
+[15:18:40] Number of vehicle models: 0
+[15:18:40] plugin.bcrypt: Version check failed.
+[15:19:49] SERVER: MySQL Connection was successful.
+[15:19:49] Number of vehicle models: 0
+[15:19:49] plugin.bcrypt: Version check failed.
+[15:21:06] SERVER: MySQL Connection was successful.
+[15:21:06] Number of vehicle models: 0
+[15:21:07] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:21:41] 
+[15:21:41] Server Plugins
+[15:21:41] --------------
+[15:21:41]  Loading plugin: mysql.dll
+[15:21:41]  >> plugin.mysql: R41-4 successfully loaded.
+[15:21:41]   Loaded.
+[15:21:41]  Loading plugin: bcrypt-samp.dll
+[15:21:41]   plugin.bcrypt v2.2.3 was loaded.
+[15:21:41]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:21:41]   Loaded.
+[15:21:41]  Loading plugin: pawncmd.dll
+[15:21:41] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:21:41]   Loaded.
+[15:21:41]  Loading plugin: streamer.dll
+[15:21:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:21:41]   Loaded.
+[15:21:41]  Loading plugin: sscanf.dll
+[15:21:41] 
+
+[15:21:41]  ===============================
+
+[15:21:41]       sscanf plugin loaded.     
+
+[15:21:41]          Version:  2.8.2        
+
+[15:21:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:21:41]  ===============================
+
+[15:21:41]   Loaded.
+[15:21:41]  Loaded 5 plugins.
+
+[15:21:41] 
+[15:21:41] Filterscripts
+[15:21:41] ---------------
+[15:21:41]   Loading filterscript 'nanimation.amx'...
+[15:21:41]   Loading filterscript 'attach.amx'...
+[15:21:41]   Loaded 2 filterscripts.
+
+[15:21:41] SERVER: MySQL Connection was successful.
+[15:21:41] Number of vehicle models: 0
+[15:21:41] plugin.bcrypt: Version check failed.
+[15:21:55] [connection] 127.0.0.1:52990 requests connection cookie.
+[15:21:56] [connection] incoming connection: 127.0.0.1:52990 id: 0
+[15:21:56] [join] Los_Amigos has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:48] 
+[15:22:48] Server Plugins
+[15:22:48] --------------
+[15:22:48]  Loading plugin: mysql.dll
+[15:22:48]  >> plugin.mysql: R41-4 successfully loaded.
+[15:22:48]   Loaded.
+[15:22:48]  Loading plugin: bcrypt-samp.dll
+[15:22:48]   plugin.bcrypt v2.2.3 was loaded.
+[15:22:48]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:22:48]   Loaded.
+[15:22:48]  Loading plugin: pawncmd.dll
+[15:22:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:22:48]   Loaded.
+[15:22:48]  Loading plugin: streamer.dll
+[15:22:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:22:48]   Loaded.
+[15:22:48]  Loading plugin: sscanf.dll
+[15:22:48] 
+
+[15:22:48]  ===============================
+
+[15:22:48]       sscanf plugin loaded.     
+
+[15:22:48]          Version:  2.8.2        
+
+[15:22:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:22:48]  ===============================
+
+[15:22:48]   Loaded.
+[15:22:48]  Loaded 5 plugins.
+
+[15:22:48] 
+[15:22:48] Filterscripts
+[15:22:48] ---------------
+[15:22:48]   Loading filterscript 'nanimation.amx'...
+[15:22:48]   Loading filterscript 'attach.amx'...
+[15:22:48]   Loaded 2 filterscripts.
+
+[15:22:48] SERVER: MySQL Connection was successful.
+[15:22:48] Number of vehicle models: 0
+[15:22:48] plugin.bcrypt: Version check failed.
+[15:22:52] [connection] 127.0.0.1:49285 requests connection cookie.
+[15:22:53] [connection] incoming connection: 127.0.0.1:49285 id: 0
+[15:22:53] [join] Los_Amigos has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:15] 
+[15:24:15] Server Plugins
+[15:24:15] --------------
+[15:24:15]  Loading plugin: mysql.dll
+[15:24:15]  >> plugin.mysql: R41-4 successfully loaded.
+[15:24:15]   Loaded.
+[15:24:15]  Loading plugin: bcrypt-samp.dll
+[15:24:15]   plugin.bcrypt v2.2.3 was loaded.
+[15:24:15]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:24:15]   Loaded.
+[15:24:15]  Loading plugin: pawncmd.dll
+[15:24:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:24:15]   Loaded.
+[15:24:15]  Loading plugin: streamer.dll
+[15:24:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:24:15]   Loaded.
+[15:24:15]  Loading plugin: sscanf.dll
+[15:24:15] 
+
+[15:24:15]  ===============================
+
+[15:24:15]       sscanf plugin loaded.     
+
+[15:24:15]          Version:  2.8.2        
+
+[15:24:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:24:15]  ===============================
+
+[15:24:15]   Loaded.
+[15:24:15]  Loaded 5 plugins.
+
+[15:24:15] 
+[15:24:15] Filterscripts
+[15:24:15] ---------------
+[15:24:15]   Loading filterscript 'nanimation.amx'...
+[15:24:15]   Loading filterscript 'attach.amx'...
+[15:24:15]   Loaded 2 filterscripts.
+
+[15:24:15] SERVER: MySQL Connection was successful.
+[15:24:15] Number of vehicle models: 0
+[15:24:16] plugin.bcrypt: Version check failed.
+[15:24:33] [connection] 127.0.0.1:62327 requests connection cookie.
+[15:24:34] [connection] incoming connection: 127.0.0.1:62327 id: 0
+[15:24:35] [join] Los_Amigos has joined the server (0:127.0.0.1)
+[15:26:37] SERVER: MySQL Connection was successful.
+[15:26:37] Number of vehicle models: 0
+[15:26:38] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:28:13] 
+[15:28:13] Server Plugins
+[15:28:13] --------------
+[15:28:13]  Loading plugin: mysql.dll
+[15:28:13]  >> plugin.mysql: R41-4 successfully loaded.
+[15:28:13]   Loaded.
+[15:28:13]  Loading plugin: bcrypt-samp.dll
+[15:28:13]   plugin.bcrypt v2.2.3 was loaded.
+[15:28:13]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:28:13]   Loaded.
+[15:28:13]  Loading plugin: pawncmd.dll
+[15:28:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:28:13]   Loaded.
+[15:28:13]  Loading plugin: streamer.dll
+[15:28:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:28:13]   Loaded.
+[15:28:13]  Loading plugin: sscanf.dll
+[15:28:13] 
+
+[15:28:13]  ===============================
+
+[15:28:13]       sscanf plugin loaded.     
+
+[15:28:13]          Version:  2.8.2        
+
+[15:28:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:28:13]  ===============================
+
+[15:28:13]   Loaded.
+[15:28:13]  Loaded 5 plugins.
+
+[15:28:13] 
+[15:28:13] Filterscripts
+[15:28:13] ---------------
+[15:28:13]   Loading filterscript 'nanimation.amx'...
+[15:28:13]   Loading filterscript 'attach.amx'...
+[15:28:13]   Loaded 2 filterscripts.
+
+[15:28:13] SERVER: MySQL Connection was successful.
+[15:28:13] Number of vehicle models: 0
+[15:28:13] plugin.bcrypt: Version check failed.
+[15:28:17] [connection] 127.0.0.1:57665 requests connection cookie.
+[15:28:18] [connection] incoming connection: 127.0.0.1:57665 id: 0
+[15:28:18] [join] Los_Amigos has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:33:28] 
+[15:33:28] Server Plugins
+[15:33:28] --------------
+[15:33:28]  Loading plugin: mysql.dll
+[15:33:28]  >> plugin.mysql: R41-4 successfully loaded.
+[15:33:28]   Loaded.
+[15:33:28]  Loading plugin: bcrypt-samp.dll
+[15:33:28]   plugin.bcrypt v2.2.3 was loaded.
+[15:33:28]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[15:33:28]   Loaded.
+[15:33:28]  Loading plugin: pawncmd.dll
+[15:33:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:33:28]   Loaded.
+[15:33:28]  Loading plugin: streamer.dll
+[15:33:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:33:28]   Loaded.
+[15:33:28]  Loading plugin: sscanf.dll
+[15:33:28] 
+
+[15:33:28]  ===============================
+
+[15:33:28]       sscanf plugin loaded.     
+
+[15:33:28]          Version:  2.8.2        
+
+[15:33:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:33:28]  ===============================
+
+[15:33:28]   Loaded.
+[15:33:28]  Loaded 5 plugins.
+
+[15:33:28] 
+[15:33:28] Filterscripts
+[15:33:28] ---------------
+[15:33:28]   Loading filterscript 'nanimation.amx'...
+[15:33:28]   Loading filterscript 'attach.amx'...
+[15:33:28]   Loaded 2 filterscripts.
+
+[15:33:28] SERVER: MySQL Connection was successful.
+[15:33:28] Number of vehicle models: 0
+[15:33:28] plugin.bcrypt: Version check failed.
+[15:40:32] [connection] 127.0.0.1:64986 requests connection cookie.
+[15:40:33] [connection] incoming connection: 127.0.0.1:64986 id: 0
+[15:40:33] [join] Los_Amigos has joined the server (0:127.0.0.1)
+[15:40:47] SERVER: MySQL Connection was successful.
+[15:40:47] Number of vehicle models: 0
+[15:40:48] plugin.bcrypt: Version check failed.
+[15:45:49] SERVER: MySQL Connection was successful.
+[15:45:49] Number of vehicle models: 0
+[15:45:49] plugin.bcrypt: Version check failed.
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:54] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:45:55] Blueberry
+[15:46:31] Blueberry
+[15:46:43] SERVER: MySQL Connection was successful.
+[15:46:43] Number of vehicle models: 0
+[15:46:43] plugin.bcrypt: Version check failed.
+[15:49:12] SERVER: MySQL Connection was successful.
+[15:49:12] Number of vehicle models: 0
+[15:49:13] plugin.bcrypt: Version check failed.
+[16:26:40] SERVER: MySQL Connection was successful.
+[16:26:40] Number of vehicle models: 0
+[16:26:41] plugin.bcrypt: Version check failed.
